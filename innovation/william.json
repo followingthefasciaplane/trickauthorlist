@@ -1,0 +1,47 @@
+[
+    {
+        "Trick Name": "And Birds Are Still...",
+        "Tier": 7,
+        "Points": 1240
+    },
+    {
+        "Trick Name": "Continuous Time Loop",
+        "Tier": 6,
+        "Points": 1175
+    },
+    {
+        "Trick Name": "Distant Time Loop",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "End of Time",
+        "Tier": 7,
+        "Points": 1290
+    },
+    {
+        "Trick Name": "Galaxy Express",
+        "Tier": 1,
+        "Points": 40
+    },
+    {
+        "Trick Name": "Happy Star",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Lonely Star",
+        "Tier": 4,
+        "Points": 725
+    },
+    {
+        "Trick Name": "Seabed Eden",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Time Loop",
+        "Tier": 2,
+        "Points": 150
+    }
+]

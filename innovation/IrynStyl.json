@@ -1,0 +1,72 @@
+[
+    {
+        "Trick Name": "Easy Top Hat",
+        "Tier": 1,
+        "Points": 90
+    },
+    {
+        "Trick Name": "Emerge",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Hard Emerge",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Hard Masog Return",
+        "Tier": 6,
+        "Points": 1050
+    },
+    {
+        "Trick Name": "Iryn can't strafe",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Jail Hop",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Jailbreak",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Jailbreak to AWP",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Main Wrap",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "Main Wrap from Spawn",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "River",
+        "Tier": 1,
+        "Points": 10
+    },
+    {
+        "Trick Name": "Spawn Ramp Wrap",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "Top Hat",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Waterfall Loop",
+        "Tier": 1,
+        "Points": 75
+    }
+]

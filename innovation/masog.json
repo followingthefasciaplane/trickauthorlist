@@ -1,0 +1,32 @@
+[
+    {
+        "Trick Name": "Advanced Slant Spawn Return",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Advanced Slant Spawn Return LvL 2",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Low Altitude Mixup",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Low Altitude To Armor",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Low Altitude To Ladder",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Low Altitude To Spawn TP Platform",
+        "Tier": 7,
+        "Points": 1225
+    }
+]

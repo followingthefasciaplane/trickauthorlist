@@ -1,0 +1,27 @@
+[
+    {
+        "Trick Name": "Burning Star",
+        "Tier": 5,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Dying Star",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Hard Deja Vu",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Hard River Climb",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "River Climb",
+        "Tier": 4,
+        "Points": 550
+    }
+]
