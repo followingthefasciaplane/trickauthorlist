@@ -1,0 +1,37 @@
+[
+    {
+        "Trick Name": "Gooseberry Circuit",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Huckleberry Circuit",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Mulberry Circuit",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Rainbow Path",
+        "Tier": 4,
+        "Points": 675
+    },
+    {
+        "Trick Name": "Rainbow Road",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Rainbow Trail",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Strawberry Circuit",
+        "Tier": 7,
+        "Points": 1250
+    }
+]

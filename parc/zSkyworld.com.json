@@ -1,0 +1,662 @@
+[
+    {
+        "Trick Name": "2HigH's Downer",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "2High's Pyramid Scheme",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "2Highs Floorida",
+        "Tier": 4,
+        "Points": 625
+    },
+    {
+        "Trick Name": "6-4",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "6-6",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "6-6 v2",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Baka",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Ballin'",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Barabylka",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Beetles by Dre",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Bicwalk",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Blackriver's Peaks",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Blinded By The Light",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Blue Twist",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Bogroll",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Bogroll Rise",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Butterfly",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Chax8d",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Chill",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Chilly Bath",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Cory Shaw",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Cubby",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "cx",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Delving into Sync's Mancave",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Desolate",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Do you even walk?",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "DrLejos Lives On",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Duek Pillar",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Easy Baka",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Easy Chilly Bath",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Elbow Grease",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Everest",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Fake Kebab",
+        "Tier": 6,
+        "Points": 1050
+    },
+    {
+        "Trick Name": "fjourNey",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Flashpoint",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Flashpoint aint human",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Floorida",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Fly my little child",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Futjob",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Going home",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Hard Floorida",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Hard Heaven is a Halfpipe",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Hard Lapicide",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Hard Never Together",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Hard Rainbow Hop",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Hard Rockwool",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Heaven is a Halfpipe",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Hi",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Higher & Higher",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Highlyf",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Hoop Rise",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "I'd fuck Hermione",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Juxtapoop",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "L2Strafe",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Lapicide",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Lever Rise",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Light Exercise",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Lighting Strike",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Low Voltage",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Lucid Dream",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Machiko",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Maeko",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Melinder Special",
+        "Tier": 5,
+        "Points": 850
+    },
+    {
+        "Trick Name": "mini cx",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Mini Pyramid Bounce",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Mini Tower Rise",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Mini Tower Rise v2",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Mister",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Morsche Boxter",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Morsche Carrera GT",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Morsche Cayman",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Morsche Targa",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Need no luck",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Need some luck",
+        "Tier": 5,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Never Together",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Ninpo",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Nip's Sidewalk",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "No Trace of a Melted Flute",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Panda Walk",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Panda's Railslide",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Parc it up Yo",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Pit's a sk8r",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Pit's a skater",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Pitbull's jazz",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Plot Twist",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Pride",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Purple Pillars",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Purple Skate",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "QuikFlik",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Rainbow Hop",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Rapha Bhops to Your Moms House",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Reaper's Dive Bomb",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Rebound",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Reverse Flash",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "RGB",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Ring Rise",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Riq's Triq",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Rockwool",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Russian Scum",
+        "Tier": 4,
+        "Points": 625
+    },
+    {
+        "Trick Name": "Satan Dance",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Slanty Nip",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Smooth",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Snorting Cinnamon",
+        "Tier": 3,
+        "Points": 390
+    },
+    {
+        "Trick Name": "South Parc",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Spawn Roundabout",
+        "Tier": 3,
+        "Points": 420
+    },
+    {
+        "Trick Name": "Splash Diving Contest",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Spray Lapicide",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Stage 1",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "Stage 1 Remix",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Stage 2",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "Stage 3",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "Stage 4",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "Stage 5",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "Stage 6",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "Stage 6 Gap",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Strafe like a Champ",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Super-Hard Lapicide",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "The Flying Caveman",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "The Lord of the Clips",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "The Sachiko Merry-Go-Round",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Think you can strafe?",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Together 4 Ever",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Tony Hawk",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Trax Walk",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Tricky",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Tricky Hop",
+        "Tier": 3,
+        "Points": 230
+    },
+    {
+        "Trick Name": "Tumor Party",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Under V for Vendetta",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "V for Vendetta",
+        "Tier": 4,
+        "Points": 525
+    },
+    {
+        "Trick Name": "Vert",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Vlick",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Voxy",
+        "Tier": 3,
+        "Points": 450
+    }
+]

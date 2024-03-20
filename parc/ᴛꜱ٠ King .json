@@ -1,0 +1,32 @@
+[
+    {
+        "Trick Name": "Green Light",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Red Light",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Side by Side",
+        "Tier": 6,
+        "Points": 1140
+    },
+    {
+        "Trick Name": "V-Bucks",
+        "Tier": 7,
+        "Points": 1245
+    },
+    {
+        "Trick Name": "Velociraptor",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Velocity",
+        "Tier": 5,
+        "Points": 875
+    }
+]

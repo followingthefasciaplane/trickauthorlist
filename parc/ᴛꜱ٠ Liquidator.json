@@ -1,0 +1,37 @@
+[
+    {
+        "Trick Name": "Elbow Express",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Emerald Roundabout",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Loading The Cannon",
+        "Tier": 8,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "Red Light Green Light",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Red Ramp Rodeo",
+        "Tier": 7,
+        "Points": 1260
+    },
+    {
+        "Trick Name": "Ruby Roundabout",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Silver Liquid",
+        "Tier": 4,
+        "Points": 500
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Trick Name": "Barabylka 2.0",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Barabylka 2.5",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Fluffeluff's Rise",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Pitbull's Walk",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Sanguine Depths",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Sanguine Depths +15",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "The Necrotic Wake",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "The Necrotic Wake +15",
+        "Tier": 7,
+        "Points": 1275
+    }
+]

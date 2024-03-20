@@ -1,0 +1,27 @@
+[
+    {
+        "Trick Name": "Cat Walk",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Elegant Cat Walk",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Glamorous Cat Walk",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Majestic Cat Walk",
+        "Tier": 7,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Winter Hates Summer",
+        "Tier": 6,
+        "Points": 1125
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Trick Name": "Colore Adventure",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Colore Parkour",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Holey Hole",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Soaring",
+        "Tier": 2,
+        "Points": 199
+    },
+    {
+        "Trick Name": "Stage 1,3",
+        "Tier": 1,
+        "Points": 99
+    },
+    {
+        "Trick Name": "Stage 3.1",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Tight Flick",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Wall Top Return",
+        "Tier": 2,
+        "Points": 199
+    }
+]
