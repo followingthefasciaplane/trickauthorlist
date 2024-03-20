@@ -1,0 +1,382 @@
+[
+    {
+        "Trick Name": "Aug Strafe",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Aug Wrap",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "Aup Wrap",
+        "Tier": 1,
+        "Points": 95
+    },
+    {
+        "Trick Name": "Awp Hop Over Main",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Awp Wrap",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "Bent Out of Shape",
+        "Tier": 3,
+        "Points": 480
+    },
+    {
+        "Trick Name": "Billy-bob Jibee-bob",
+        "Tier": 4,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Buck 100",
+        "Tier": 7,
+        "Points": 3310
+    },
+    {
+        "Trick Name": "Buck 50",
+        "Tier": 6,
+        "Points": 2200
+    },
+    {
+        "Trick Name": "Button Check",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Button Jump",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Button Yump",
+        "Tier": 3,
+        "Points": 290
+    },
+    {
+        "Trick Name": "Button Yump-Up",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Crossover Galore",
+        "Tier": 6,
+        "Points": 1900
+    },
+    {
+        "Trick Name": "Curved Walk",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Deadlift",
+        "Tier": 1,
+        "Points": 10
+    },
+    {
+        "Trick Name": "Deez",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "Double Awp Wrap",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Double Garlic Kebab",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Double Kebab",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Double SMG Wrap",
+        "Tier": 3,
+        "Points": 340
+    },
+    {
+        "Trick Name": "Double Stuffed Kebab",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Easy Jail Rodeo",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Extended Button Jump",
+        "Tier": 4,
+        "Points": 580
+    },
+    {
+        "Trick Name": "Extended Spine Walk",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Fast SMG",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Figure-Eight",
+        "Tier": 4,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Figure-Four",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Garlic Gyros",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Garlic Kebab",
+        "Tier": 2,
+        "Points": 170
+    },
+    {
+        "Trick Name": "Go Home",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Guava Grande",
+        "Tier": 6,
+        "Points": 1950
+    },
+    {
+        "Trick Name": "Guava Groove",
+        "Tier": 5,
+        "Points": 1450
+    },
+    {
+        "Trick Name": "Gyros",
+        "Tier": 2,
+        "Points": 230
+    },
+    {
+        "Trick Name": "Hard Bent Out of Shape",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Hard Main Wrap Mayhem",
+        "Tier": 8,
+        "Points": 3700
+    },
+    {
+        "Trick Name": "Hard YEETnado",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Home Run",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Howdy Partner",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "HSP",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Jail Break",
+        "Tier": 2,
+        "Points": 160
+    },
+    {
+        "Trick Name": "Jail Climb",
+        "Tier": 2,
+        "Points": 120
+    },
+    {
+        "Trick Name": "Jail Rodeo",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Jelly Flex",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Kebab",
+        "Tier": 1,
+        "Points": 90
+    },
+    {
+        "Trick Name": "Long Way Back",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Main Wrap Mayhem",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Morse Code",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Nuts",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Nutz",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Pineapple Yogurt",
+        "Tier": 6,
+        "Points": 1625
+    },
+    {
+        "Trick Name": "Prison Break",
+        "Tier": 2,
+        "Points": 170
+    },
+    {
+        "Trick Name": "Quadruple Main Wrap To The Moon",
+        "Tier": 6,
+        "Points": 1800
+    },
+    {
+        "Trick Name": "Rehabilitation",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Return",
+        "Tier": 6,
+        "Points": 1750
+    },
+    {
+        "Trick Name": "Rifle",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Rifle Hop",
+        "Tier": 1,
+        "Points": 60
+    },
+    {
+        "Trick Name": "Rifle Leap",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Rifle Round-up",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Rifle Wrap",
+        "Tier": 1,
+        "Points": 45
+    },
+    {
+        "Trick Name": "Rifle Yump",
+        "Tier": 6,
+        "Points": 1700
+    },
+    {
+        "Trick Name": "Short Way Back",
+        "Tier": 2,
+        "Points": 205
+    },
+    {
+        "Trick Name": "Shotgun Check",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Shotgun's Backfire",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Sidewalk",
+        "Tier": 6,
+        "Points": 1800
+    },
+    {
+        "Trick Name": "Sign Language",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Sniper Rifle",
+        "Tier": 5,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Sniper Strafe",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Spine Walk",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Starfruit Surprise",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Straight From Spawn",
+        "Tier": 3,
+        "Points": 405
+    },
+    {
+        "Trick Name": "Target Hop",
+        "Tier": 2,
+        "Points": 240
+    },
+    {
+        "Trick Name": "Tip-Top Shape",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Triple Awp Wrap",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Triple Kebab",
+        "Tier": 5,
+        "Points": 1150
+    },
+    {
+        "Trick Name": "Yump Go Home",
+        "Tier": 2,
+        "Points": 150
+    }
+]
