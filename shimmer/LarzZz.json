@@ -1,0 +1,342 @@
+[
+    {
+        "Trick Name": "Arcade",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Arcade Remix",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Arcade Remix 2.0",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Around The Back",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Bail Return",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Bail Rising",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Bail Wrap",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "BIG UP",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "BIG UP South",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Boosted Skyhigh",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Break n' Enter",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Catwalk Bop",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Cheeky GOAL!",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Cheeky Lucker",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Double Kill",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Extreme Launch",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Extreme Napoleon",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Gettin Up",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Gettin Up v2",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "GOAL! V2",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Green Machine",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Hard Bail Return",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Hard Lucker",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Hard Monsoon",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Hard Napoleon",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Hard Pinball",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Hotdog",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Hub Bop",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Jailer Rise",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Ladder",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "LarzZz's Main Wrap",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "LarzZz's Skyhigh",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Launch",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Liquid's Dip To Pool",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Liquid's Doubledip",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Lower Wrap",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Monsoon",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Mulp and Frag's bathtub date",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Napoleon",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Nappa Rise",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Noob Launch",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Over The Rainbow",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Pac-Man",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Penta Dip",
+        "Tier": 8,
+        "Points": 1350
+    },
+    {
+        "Trick Name": "PENTAKILL!!!",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Pignu goes to jail",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Pinball Remix",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Pinball Remix 2.0",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Pinball v2",
+        "Tier": 5,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Pool Launch",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "pop UP",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Pro Launch",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Pro Monsoon",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Quadrakill",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Rand Skyhigh",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Single",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Slant Launch",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "So Phar",
+        "Tier": 7,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Spin Cycle",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Street Fighter",
+        "Tier": 6,
+        "Points": 1175
+    },
+    {
+        "Trick Name": "Top Up",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Triple Kill",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Tycoon",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Ultimate Pinball",
+        "Tier": 7,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Up And Down",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "UP South",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Weavy Boi",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Wedge Gap",
+        "Tier": 3,
+        "Points": 300
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "Trick Name": "Essential",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Plunge",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Precise",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "South Wrap",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Standard",
+        "Tier": 6,
+        "Points": 1150
+    }
+]
