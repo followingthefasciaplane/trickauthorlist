@@ -1,0 +1,7322 @@
+[
+    {
+        "Trick Name": "Razor from 3rd",
+        "Tier": 1,
+        "Points": 20
+    },
+    {
+        "Trick Name": "Crazor",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "Deagle hop",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "Razor from 4th",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "Zig Zag",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "Evo's Trick",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Awp Wrap",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "Razor from opposite 3rd",
+        "Tier": 1,
+        "Points": 30
+    },
+    {
+        "Trick Name": "Razor from 2nd",
+        "Tier": 1,
+        "Points": 30
+    },
+    {
+        "Trick Name": "Chrome",
+        "Tier": 1,
+        "Points": 35
+    },
+    {
+        "Trick Name": "Razor from 5th",
+        "Tier": 1,
+        "Points": 35
+    },
+    {
+        "Trick Name": "Razor from opposite 2nd",
+        "Tier": 1,
+        "Points": 35
+    },
+    {
+        "Trick Name": "Razor from last",
+        "Tier": 1,
+        "Points": 40
+    },
+    {
+        "Trick Name": "Zig Zag from strafe",
+        "Tier": 1,
+        "Points": 40
+    },
+    {
+        "Trick Name": "Main slant to awp",
+        "Tier": 1,
+        "Points": 45
+    },
+    {
+        "Trick Name": "Razor from opposite last",
+        "Tier": 1,
+        "Points": 45
+    },
+    {
+        "Trick Name": "Razor",
+        "Tier": 1,
+        "Points": 45
+    },
+    {
+        "Trick Name": "Razor from opposite 4th",
+        "Tier": 1,
+        "Points": 45
+    },
+    {
+        "Trick Name": "Zig Zag from opposite strafe",
+        "Tier": 1,
+        "Points": 45
+    },
+    {
+        "Trick Name": "Crazor from 3rd",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Razor from opposite 5th",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Main Wrap",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Deagle to awp from strafe",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Deagle to 2nd",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Top to 5th",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Top to 3rd",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Thunder gap",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Top to last",
+        "Tier": 1,
+        "Points": 55
+    },
+    {
+        "Trick Name": "Top to 2nd",
+        "Tier": 1,
+        "Points": 55
+    },
+    {
+        "Trick Name": "Top to 4th",
+        "Tier": 1,
+        "Points": 55
+    },
+    {
+        "Trick Name": "2nd to deagle",
+        "Tier": 1,
+        "Points": 55
+    },
+    {
+        "Trick Name": "Platform to awp from strafe",
+        "Tier": 1,
+        "Points": 65
+    },
+    {
+        "Trick Name": "Deagle to awp box",
+        "Tier": 1,
+        "Points": 65
+    },
+    {
+        "Trick Name": "1st to main slant",
+        "Tier": 1,
+        "Points": 65
+    },
+    {
+        "Trick Name": "Fly Like An Eagle Soar Like A Pidgeon",
+        "Tier": 4,
+        "Points": 690
+    },
+    {
+        "Trick Name": "Fly Like An Eagle Wrap Like A Goose",
+        "Tier": 4,
+        "Points": 690
+    },
+    {
+        "Trick Name": "Crazor from opposite 5th",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Thunder from 2nd",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Deagle to 3rd",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Thundzor",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "2nd through to deagle hop",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Thunder from 5th",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "2nd to main slant",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Spawn climb",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Crazor from opposite 3rd",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Sign to spawn pool",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "6th to opposite awp",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Main to sign",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Thunder from last",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Deagle to Chrome",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Thunder from 4th",
+        "Tier": 1,
+        "Points": 80
+    },
+    {
+        "Trick Name": "Deagle Wrap",
+        "Tier": 1,
+        "Points": 85
+    },
+    {
+        "Trick Name": "Deagle Hop from strafe",
+        "Tier": 1,
+        "Points": 85
+    },
+    {
+        "Trick Name": "3rd to deagle",
+        "Tier": 1,
+        "Points": 85
+    },
+    {
+        "Trick Name": "Main slant to 1st",
+        "Tier": 1,
+        "Points": 85
+    },
+    {
+        "Trick Name": "Main slant to 2nd",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Thunder from opposite last",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Deagle to 4th",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Main Wrap from strafe",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Sign to pyramid",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Sign to awp",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "3rd to main slant",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Top to Chrome",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Awpx2",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Easy Psycho",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Easy Rise",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "3rd through to deagle hop",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Thunder from opposite 3rd",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Awp to Chrome",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Reverse Deagle Wrap",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Waave",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Crazor from 4th",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Waavzor",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Dog Gap to 2nd",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Matta",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "C-walk",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Pyramid to spawn",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Platform to awp water from strafe",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Waave from 4th",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Skyline",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Tiny Rise",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Top to awp box",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Waave to awp box",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Pyramid Wrap to main",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Spawn wall to pool",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "2nd around 1st to deagle",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "4ly4lyf",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Cyclone to awp",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Awp to pyramid",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Awp to opposite Chrome",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Waave from 2nd",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Crazor from opposite 4th",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Pro Chrome",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "2nd to deagle from strafe",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Dog Gap",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "2nd through to deagle hop from strafe",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Awp to deagle",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "2nd to deagle hop",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Platform to awp",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Deagle to pool",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "4th through to deagle hop",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Pyramid Slant",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Deagle to 5th",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Exported so Beaugosse",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Matta to 5th wedge",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Jihad",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Thundzor from 3rd",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Pyramid to spawn wall",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Heaven",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Pabst Hop",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "1st to sign",
+        "Tier": 2,
+        "Points": 130
+    },
+    {
+        "Trick Name": "Thundzor from opposite 3rd",
+        "Tier": 2,
+        "Points": 130
+    },
+    {
+        "Trick Name": "Pro Heaven",
+        "Tier": 2,
+        "Points": 135
+    },
+    {
+        "Trick Name": "4th to main slant",
+        "Tier": 2,
+        "Points": 135
+    },
+    {
+        "Trick Name": "Pro Main Wrap",
+        "Tier": 2,
+        "Points": 145
+    },
+    {
+        "Trick Name": "Waave from 5th",
+        "Tier": 2,
+        "Points": 145
+    },
+    {
+        "Trick Name": "Gazor",
+        "Tier": 2,
+        "Points": 145
+    },
+    {
+        "Trick Name": "2nd through deagle to awp water",
+        "Tier": 2,
+        "Points": 145
+    },
+    {
+        "Trick Name": "Main slant to 3rd",
+        "Tier": 2,
+        "Points": 145
+    },
+    {
+        "Trick Name": "Sign to awp water",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Waave from last",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Double Habibi",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Main to top",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Habibi",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Triple Habibi",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Awp to opposite awp box",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Pyramid Wrap",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Deagle to 6th",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Syphon hop",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Waterfall",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Deagle slant",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "1st to spawn",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "2nd around 1st to 3rd deagle",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "3rd through to deagle hop from strafe",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "5th wedge to opposite awp",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "1st to spawn wall",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Awp to main",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "2nd around 1st to 2nd deagle",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Awpx2 from strafe",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "5th to main slant",
+        "Tier": 2,
+        "Points": 155
+    },
+    {
+        "Trick Name": "2nd under deagle",
+        "Tier": 2,
+        "Points": 155
+    },
+    {
+        "Trick Name": "Main slant to 6th",
+        "Tier": 2,
+        "Points": 155
+    },
+    {
+        "Trick Name": "Main slant to awp water",
+        "Tier": 2,
+        "Points": 155
+    },
+    {
+        "Trick Name": "Main slant to awp ramp water from spawn",
+        "Tier": 2,
+        "Points": 155
+    },
+    {
+        "Trick Name": "Spawn to awp",
+        "Tier": 2,
+        "Points": 155
+    },
+    {
+        "Trick Name": "2nd through deagle to 6th",
+        "Tier": 2,
+        "Points": 160
+    },
+    {
+        "Trick Name": "Waavzor from 4th",
+        "Tier": 2,
+        "Points": 165
+    },
+    {
+        "Trick Name": "Deagle awp to deagle",
+        "Tier": 2,
+        "Points": 165
+    },
+    {
+        "Trick Name": "Pyramid to spawn water",
+        "Tier": 2,
+        "Points": 165
+    },
+    {
+        "Trick Name": "2nd around 1st to deagle hop",
+        "Tier": 2,
+        "Points": 165
+    },
+    {
+        "Trick Name": "3rd wedge to opposite awp",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Heaven from 3rd",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Pyramid to deagle hop",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "V Easy Rise",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Double Snowman Gap",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Spawn wall to awp",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Sonic T1000",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Awp over main to Chrome",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Awp hop",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Poppin a Pez",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Hart Slant",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "V Chrome",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Awpx2 from platform bhop",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "V Awpx2",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Awp to main remix",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "The Classic Pharm",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Snowman Gap",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Deagle Wrap from spawn",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Pyramid to sign",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Sign to 6th",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Spawn to awp water",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Sign Slant",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Pharm Hop",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Broken Gap",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Waave Weave",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "6th to main slant",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "3rd to deagle hop",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Platform to awp box",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Thunder weave",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "6th to deagle",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Sign to 1st",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Sign to spawn",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "2nd through deagle to awp",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Awp to main slant",
+        "Tier": 2,
+        "Points": 180
+    },
+    {
+        "Trick Name": "Thunder from opposite 2nd",
+        "Tier": 2,
+        "Points": 185
+    },
+    {
+        "Trick Name": "Awpx2 behind awp",
+        "Tier": 2,
+        "Points": 185
+    },
+    {
+        "Trick Name": "5th through to deagle hop",
+        "Tier": 2,
+        "Points": 185
+    },
+    {
+        "Trick Name": "2nd to sign",
+        "Tier": 2,
+        "Points": 185
+    },
+    {
+        "Trick Name": "2nd through deagle to 5th",
+        "Tier": 2,
+        "Points": 185
+    },
+    {
+        "Trick Name": "Waave to opposite last",
+        "Tier": 2,
+        "Points": 185
+    },
+    {
+        "Trick Name": "Slaraka Wrap",
+        "Tier": 2,
+        "Points": 185
+    },
+    {
+        "Trick Name": "Puss Gap",
+        "Tier": 2,
+        "Points": 185
+    },
+    {
+        "Trick Name": "Down Syndrome",
+        "Tier": 2,
+        "Points": 185
+    },
+    {
+        "Trick Name": "Awp Wrap to pool",
+        "Tier": 2,
+        "Points": 185
+    },
+    {
+        "Trick Name": "Platform to awp water",
+        "Tier": 2,
+        "Points": 195
+    },
+    {
+        "Trick Name": "Slants to awp box",
+        "Tier": 2,
+        "Points": 195
+    },
+    {
+        "Trick Name": "V Crazor",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "2nd under deagle to awp",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Pro Awp Wrap",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "2nd to spawn wall",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Broken Gap from 3rd",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Awp box hop",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Spawn wall to pyramid",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Sign to 5th",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "V Razor from 3rd",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Keano Gap",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Platform to pool",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Awpx2 through deagle",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "2nd through deagle to 4th",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Pharm Was Here",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Sign to spawn wall",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Main slant to awp box",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "5th to deagle",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Boat's Syphon Hop",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Pro Jihad",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "3rd through deagle to 6th",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Under 6th to awp box",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Stairway to Heaven",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Saran Wrap",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Main slant to last wedge",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Top slant",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "C-walk to 4th",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Awpx2 over main",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Sign to pool",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "5th under 4th to awp",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Ben Strafe",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Awp water slant to awp box",
+        "Tier": 2,
+        "Points": 215
+    },
+    {
+        "Trick Name": "Hell",
+        "Tier": 2,
+        "Points": 220
+    },
+    {
+        "Trick Name": "Sonic T1000 over main",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "5th wedge to awp water",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "DaTs Kiddie Pool",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "V Razor from 4th",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Rise Gap",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Matta from strafe",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Awp to opposite Matta",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Wall-hop Step-Up from strafe",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "2nd to spawn",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Cyclone to awp water",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Sign to 2nd",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Sumo gap",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "V Gator",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "1st to spawn water",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Filifun Waave",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "2nd under deagle to Hart Slant",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Gazor from 3rd",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "V Pro Exy Rise",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Thundzor from 4th",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Hard Survivor Hop",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Deagle to 2nd from spawn",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Dog slant",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Soko Ono",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Dog Gap to awp box",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Spawn to pool",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Awp to platform to awp water",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Wall-hop Step-Up to 4th from strafe",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "The Survivor Hop",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Chrome Slant",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "V Crazor from 4th",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "5th under 4th to awp box",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "3rd under 2nd to awp",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Awp to Matta",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "4th under 3rd to awp",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Matta Pool Wrap",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "2nd through deagle slant",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Gator",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Bosnian",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "4th to deagle",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Wall-hop Step-Up to 5th from strafe",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "V Hard Exy Rise",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Egyptian Sonic T1000",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "V Exy Rise",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "2nd through deagle to 3rd",
+        "Tier": 2,
+        "Points": 235
+    },
+    {
+        "Trick Name": "2nd through deagle to awp box",
+        "Tier": 2,
+        "Points": 235
+    },
+    {
+        "Trick Name": "2nd to deagle hop from strafe",
+        "Tier": 2,
+        "Points": 235
+    },
+    {
+        "Trick Name": "Main slant to 4th",
+        "Tier": 2,
+        "Points": 235
+    },
+    {
+        "Trick Name": "2nd under deagle to awp box",
+        "Tier": 2,
+        "Points": 245
+    },
+    {
+        "Trick Name": "Pro Deagle Wrap",
+        "Tier": 2,
+        "Points": 245
+    },
+    {
+        "Trick Name": "4th under 3rd to awp box",
+        "Tier": 2,
+        "Points": 245
+    },
+    {
+        "Trick Name": "Main slant to sign",
+        "Tier": 2,
+        "Points": 245
+    },
+    {
+        "Trick Name": "Gator from 5th",
+        "Tier": 2,
+        "Points": 245
+    },
+    {
+        "Trick Name": "Pro Deagle Wrap to 2nd",
+        "Tier": 2,
+        "Points": 245
+    },
+    {
+        "Trick Name": "3rd around 1st to deagle",
+        "Tier": 2,
+        "Points": 245
+    },
+    {
+        "Trick Name": "Super Hard Ichhaueuch Wrap",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Under 6th to awp box from strafe",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Reverse Deagle Wrap from spawn",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Heaven over main",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Helmut's High Dive",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Mac Hop",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Super Ichhaueuch Wrap",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "The Scary Matta",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Sign to awp box",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Awp to sign",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Heaven from strafe",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "4th through to deagle hop from strafe",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Syphon hop from spawn",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Main to under top spray",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "2nd around 1st to deagle from strafe",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Monster 4ly4lyf",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "V Razor from 5th",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "The Aqua Wolph",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "6th to opposite 6th",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Pro Reverse Deagle Wrap",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Deagle to Matta from strafe",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Under 5th to awp water",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Hard Ichhaueuch Wrap",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Pro Ichhaueuch Wrap",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Tsurugi",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Waave to pool",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "V Easy Psycho",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "4ly4lyf to 2nd",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "3rd under 2nd to Hart Slant",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Sign to 4th",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Ichhaueuch Wrap",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Platform Slant",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Hamadi's Rise",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "2nd under deagle slant",
+        "Tier": 3,
+        "Points": 255
+    },
+    {
+        "Trick Name": "Gator from 4th",
+        "Tier": 3,
+        "Points": 255
+    },
+    {
+        "Trick Name": "C-walk to 3rd",
+        "Tier": 3,
+        "Points": 255
+    },
+    {
+        "Trick Name": "Hard Chrome",
+        "Tier": 3,
+        "Points": 255
+    },
+    {
+        "Trick Name": "2nd through deagle to 2nd",
+        "Tier": 3,
+        "Points": 265
+    },
+    {
+        "Trick Name": "Deagle to 3rd from spawn",
+        "Tier": 3,
+        "Points": 265
+    },
+    {
+        "Trick Name": "Sexual's Fantasy",
+        "Tier": 3,
+        "Points": 265
+    },
+    {
+        "Trick Name": "McRyan Hop",
+        "Tier": 3,
+        "Points": 265
+    },
+    {
+        "Trick Name": "2nd to spawn water",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "5th to deagle hop",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Spawn pool to main",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Spawn wall to awp water",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Thai Bomber",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Cracka Gap",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "2nd through deagle to pool",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Pro Broken Gap",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "3rd to sign",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "5th through to deagle hop from strafe",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Cyclone to awp box",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Under 5th to awp from strafe",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "V Razor from 2nd",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Razorfall",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Rapha",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Jungle Jim",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "3rd through deagle to awp",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Trooper Tap",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Glimpse Gap",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "TFLO's chrome",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "T1000",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Awpx2 around main",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Vurt Hop",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Pool Wrap",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "3rd to deagle from strafe",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Awp through deagle to 2nd",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Waterfall from strafe",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Deagle to awp from spawn",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "3rd under 2nd to awp box",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Dog Gap to pool",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "V Heaven",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Gator from 2nd",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Waterfall from spawn",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Double Trooper Tap",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "6th to deagle hop",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "6th through to deagle hop",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "3rd to spawn",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Mazerati Rida",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Dog Gap Remix",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "4th to deagle hop",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Heaven from 5th",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "X3n0n's Chrome",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Main to sign from strafe",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "The Switch-Up",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Egyptian Sonic T1000 over main",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "V Rapha",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "V Broken Gap",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Dog Gap from strafe",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "4th to deagle from strafe",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Main slant to 5th",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Syphon Hop from 2nd top from spawn",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Easy Wrap",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "ZeroFruit",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Cazz Chrome",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "3rd around 1st to deagle hop",
+        "Tier": 3,
+        "Points": 280
+    },
+    {
+        "Trick Name": "Last wedge to opposite awp",
+        "Tier": 3,
+        "Points": 285
+    },
+    {
+        "Trick Name": "2nd under deagle to pool",
+        "Tier": 3,
+        "Points": 285
+    },
+    {
+        "Trick Name": "Leap of Faith",
+        "Tier": 3,
+        "Points": 285
+    },
+    {
+        "Trick Name": "Kap Step-Up",
+        "Tier": 3,
+        "Points": 285
+    },
+    {
+        "Trick Name": "Dart Gap",
+        "Tier": 3,
+        "Points": 285
+    },
+    {
+        "Trick Name": "3rd through deagle to 5th",
+        "Tier": 3,
+        "Points": 285
+    },
+    {
+        "Trick Name": "Gator from last",
+        "Tier": 3,
+        "Points": 285
+    },
+    {
+        "Trick Name": "Leap of Chrome",
+        "Tier": 3,
+        "Points": 285
+    },
+    {
+        "Trick Name": "2nd around 1st to deagle hop from strafe",
+        "Tier": 3,
+        "Points": 285
+    },
+    {
+        "Trick Name": "Carbon Gap",
+        "Tier": 3,
+        "Points": 285
+    },
+    {
+        "Trick Name": "Spawn to awp box",
+        "Tier": 3,
+        "Points": 285
+    },
+    {
+        "Trick Name": "Matta from spawn",
+        "Tier": 3,
+        "Points": 285
+    },
+    {
+        "Trick Name": "Dart Flogan Rise",
+        "Tier": 3,
+        "Points": 285
+    },
+    {
+        "Trick Name": "V Pro Broken",
+        "Tier": 3,
+        "Points": 285
+    },
+    {
+        "Trick Name": "FatBoy Was Homeless",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Waave to opposite 3rd",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Junior's Air Strike",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "3rd through deagle to awp water",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Sonic Dart T1000",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Hamadi's Psycho",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "6th through to deagle hop from strafe",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Walking Paradox",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Bogroll",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "The big fall gap thing",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Sonic Wrap",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Egyptian Bogroll",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Flilifun to pool",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Furby Psycho from 3rd",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Deagle to Chrome from spawn",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Baroo Hard Exy Rise",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Furby Rise Remix",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Pro Walking Paradox",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Pro Broken Gap from 3rd",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "V NightmareRox Wrap",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Spawn water to pool",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Crazor from opposite 2nd",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Furby Exy Rise",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Baroo Exy Rise",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Main slant to spawn water",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "NightmareRox Wrap",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Deagle awpx2 over main",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "4ly4lyf Rise",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "V Broken Gap from 3rd",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Crazor from 2nd",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Broken Gap from last",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Hard Pool Wrap",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Furby Exy Rise from 3rd",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Gator Jihad",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Dog Gap to spawn pool",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Monster Gap",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Furby Pro Exy Rise from 3rd",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Awp to opposite Pool Wrap",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Hamadi's Jihad",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Soko Ono Wrap",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Easy Nightmare Remix",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Fatboy Go Home",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "3rd to spawn wall",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Awp water slant Wrap",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Spawn wall to pool from strafe",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Baroo Pro Exy Rise",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "V Waterfall",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Soko Ono Sonic T1000",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Egyptian Tsurugi",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Reverse Awpx2 around main",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Dog Gap over main to pool",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Gazor from 4th",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Furby Rise from 3rd",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Reverse Deagle Wrap to 2nd",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "3rd around 1st to deagle from strafe",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "4th around 1st to deagle",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Easy Nightmare",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Furby Hard Exy Rise from 3rd",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Awp slant to awp water",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "4th under 3rd to awp water",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Furby Psycho",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Chrome Dart",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Fatboy is Fat",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "V Sing",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "C-walk to 2nd",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Pro Awp Wrap from strafe",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "V Kamikaze Hop",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "3rd under deagle to opposite awp",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "5th to deagle from strafe",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Lejos Wrap",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Baroo Psycho",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Easy Flogan Rise",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "2nd around 1st to deagle from spawn",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Heaven from last",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Furby Rise",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "4ly4lyf Psycho",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "V Pro Broken Gap from 3rd",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Rango Gap from spawn",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Dog Gap to spawn",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Pyramid over main to deagle",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "3rd to deagle hop from strafe",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "The Switch-Up Remix",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "The Kamikaze Hop from strafe",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "The Kamikaze Step-Up from strafe",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Deagle awpx2 through deagle",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Soko Ono Sonic T1000 over main",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Egyptian T1000",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "3rd through deagle to awp box",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Gator Wrap",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Jhlimpse",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Awp to spawn",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "The Kamikaze Hop",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Gator Authentic Parachute",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Gator from opposite last",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Cyclone Slant",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "3rd through deagle slant",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Pool Wrap from strafe",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "V Gator Wrap",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Glimpse Wrap",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Rango Gap",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "4th to deagle hop from strafe",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "5th to deagle hop from strafe",
+        "Tier": 3,
+        "Points": 335
+    },
+    {
+        "Trick Name": "Bosnian from strafe",
+        "Tier": 3,
+        "Points": 335
+    },
+    {
+        "Trick Name": "T1000 Go Home",
+        "Tier": 3,
+        "Points": 335
+    },
+    {
+        "Trick Name": "Deagle to 4th from spawn",
+        "Tier": 3,
+        "Points": 340
+    },
+    {
+        "Trick Name": "Main slant to pool",
+        "Tier": 3,
+        "Points": 340
+    },
+    {
+        "Trick Name": "Under 6th to awp water",
+        "Tier": 3,
+        "Points": 345
+    },
+    {
+        "Trick Name": "Nostalgia's Jihad",
+        "Tier": 3,
+        "Points": 345
+    },
+    {
+        "Trick Name": "Nostalgia Exy Rise",
+        "Tier": 3,
+        "Points": 345
+    },
+    {
+        "Trick Name": "Pro Pool Wrap",
+        "Tier": 3,
+        "Points": 345
+    },
+    {
+        "Trick Name": "C-walk to 4th from strafe",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Habibi from spawn",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "C-walk to 2nd from strafe",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Spawn wall to awp box",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Deagle to Pool Wrap from spawn",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "C-walk from strafe",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Nickx trick",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "McJuniorrr Wrap",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "The Flying Franklin",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "V Sing to Pool",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Awpx3 over main",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "V Sing from 5th",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Pro Broken Gap from last",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "V Singzor Remix from 3rd",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "4th to sign",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "V Habibi from spawn",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "4th around 1st to deagle hop",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Broken Waterfall",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Soko Ono Chrome from strafe",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "2nd under deagle to 6th",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "626 spray",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "2nd under deagle to awp water",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Cracka Pro Exy Rise",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Chrome Slant from strafe",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Kross Climb",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Double Trooper Wrap",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Cyclone to pool",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Deagle awpx2 from strafe",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Awp slant Wrap",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "4th to spawn",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "V Broken Gap from last",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Psycho",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Awp to spawn wall",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Furby's Step up",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Deagle to Pool Wrap from strafe",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "3rd under deagle to opposite awp box",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Psycho from 3rd",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "C-walk to 3rd from strafe",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Spawn wall to mainslant",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Spawn to main slant",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "C-walk to last from strafe",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Pro Cracka Gap",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Junior's Feet",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "V Snowman Gap",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Hard Habibi",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Razorfall from opposite",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "C-walk to last",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "V Singzor Remix from 5th",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "The Pharm Slant",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Pyramid to under top spray",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "V Broken Waterfall",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Soko Ono from strafe",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "V Sing from last",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Hard Chrome from strafe",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Trooper Wrap",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "MB Killed It",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "3rd through deagle to pool",
+        "Tier": 3,
+        "Points": 355
+    },
+    {
+        "Trick Name": "LS Gap",
+        "Tier": 3,
+        "Points": 365
+    },
+    {
+        "Trick Name": "3rd to spawn water",
+        "Tier": 3,
+        "Points": 365
+    },
+    {
+        "Trick Name": "6th to deagle from strafe",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Egyptian T1000 over main",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Mac's Hoppidy Hop",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Deagle awpx3 over main",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Insane Gap",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Sign to 3rd",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Dog Gap to spawn wall",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Awpx3 through deagle",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "3rd through deagle to 4th",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Mal T1000",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Senty Gap",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Femge Trip",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Pro Main to sign from strafe",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Egyptian Jungle Jim",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Under 6th to wall hop",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Deaglex3 to pool",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Awp to spawn water",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Dart Wrap",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Apri Twist",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "The Survivor Step-Up",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Spawn wall slant",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Pool Wrap from spawn",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Sneaky Step Up",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "PandAir",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "4th under 3rd to Hart Slant",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Reaper Rise",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Spawn slant hop",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Double Pits to Chesty",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Pyramid to top",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "T1000 Come Home",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Pro Platform to awp",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Step-Up from spawn",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Malinger's Fall",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "4th through deagle to awp",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "V Pharm Hop",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "T1000 over main",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Dog Gap to sign",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Reaper Gap",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Crazor from opposite 1st",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "2nd through deagle to 1st",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Raskal Wrap",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Soko Ono T1000",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "3rd under 2nd to awp water",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "V Pool Wrap",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Rasta Hop",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Spawn water to awp",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Monster Chrome",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Main slant to spawn",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Reaper Wrap",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "V Pro Broken from last",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Nostalgia Come Home",
+        "Tier": 3,
+        "Points": 380
+    },
+    {
+        "Trick Name": "Pro Gator",
+        "Tier": 3,
+        "Points": 385
+    },
+    {
+        "Trick Name": "Deagle to 5th from spawn",
+        "Tier": 3,
+        "Points": 385
+    },
+    {
+        "Trick Name": "Thai-lur Go Chrome",
+        "Tier": 3,
+        "Points": 385
+    },
+    {
+        "Trick Name": "Double Dart Wrap",
+        "Tier": 3,
+        "Points": 395
+    },
+    {
+        "Trick Name": "Wall Wrap",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Acidic Wrap",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "The Ocho",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Exy Rise",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Pro Deagle Wrap from strafe",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "T1000 Slant Wrap",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "T1000 Slant to Sign",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Double Gator Jihad",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Platform to 6th",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "T1000 Slant to Top",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Ducati Fuck Off",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Strafe this",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Pro Skittles",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Owned T1000",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "V Helmut's High Dive",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Raiin's Heaven",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "5th around 1st to deagle",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Egyptian Gator Walk",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Selena Is Very Sexy",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Egyptian Gator Wrap",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Egyptian Sonic T1000 over main to pyramid",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Pro Deagle hop",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "C-walk to 3rd from spawn",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "4th around 1st to deagle from strafe",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Thunder to pool",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Pro Awp slant Wrap",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Main slant to spawn wall",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Gator Walk",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Goblin Gap",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Crack My Pool",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "V Skyline",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Platform to awpx2 from strafe",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Main to awp water from spawn",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Blazed T1000",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Leap of Chrome Remix",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "V Cracka Gap",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Pharm Wrap",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Acidic Slant Chrome",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "C-walk to 4th from spawn",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Fresh Gap",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "C-walk from spawn",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Selena Is Sexy",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "T1000 Slant",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Gator to pool",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Glimpse Hop",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Trofle's Copter",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Acidic Slant",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Waave Walk",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "2nd through deagle to awp from strafe",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Crazor from 1st",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "V Dart Gap",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "4th through deagle to awp water",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Chrome Dart Wrap",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Pro Crack My Pool",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Leap of Faith Remix",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Chrome from spawn",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "3rd to 3rd",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "3rd around 1st to deagle hop from strafe",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Hamadi's Skittles",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Sign to awp from strafe",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Hamadi's Chrome",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Panda Express",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Awp water slant to pool",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Double Furby Rise",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "The Flying Pirate",
+        "Tier": 3,
+        "Points": 420
+    },
+    {
+        "Trick Name": "4th through deagle slant",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Hard Dart Matta",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Bendy's Rise",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "T1000 is a Dog",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Battery Acid",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "4th to spawn wall",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Pro Hard Habibi over main",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Puss Gap from spawn",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "4th to spawn water",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Tsunami",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Deagle awpx3 through deagle",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Chrome Slant from spawn",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Egyptian Sonic T1000 from strafe",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Matthew Rise",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Double Jihad",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Mac Gap",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Pharmacide",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "4th through deagle to awp box",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Gx Slant",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Hard Dart",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Bendy's Psycho",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Reaper's Schizophrenia",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "3rd under deagle to pool",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "5th under 4th to Hart Slant",
+        "Tier": 3,
+        "Points": 435
+    },
+    {
+        "Trick Name": "4th to 4th",
+        "Tier": 3,
+        "Points": 444
+    },
+    {
+        "Trick Name": "The God Hop",
+        "Tier": 3,
+        "Points": 445
+    },
+    {
+        "Trick Name": "Spawn to pyramid",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Pro Pool Wrap from strafe",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Awp over main to opposite awp box",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Dart Pool Wrap",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Zoott Ka Boott",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Tobe Go Home",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "V Sing from 4th",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "C-walk to pool",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "2nd under deagle to awp from strafe",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Awp water hop",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Dog Gap around main",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Soko Ono T1000 over main",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "The Slant Gap",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "2nd through deagle to 1st from strafe",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Trofle's Retreat",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Owned Sonic T1000 Hard Exy Rise",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "5th around 1st to deagle hop",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Main slant Wrap",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Double Reaper Gap",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Gator Rise",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Bogs Remix 2",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Skittles",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "5th to spawn",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "FlexXx Matta",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Hamadi's Pool Wrap",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "5th wedge to opposite awp box",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Owned Sonic T1000 Exy Rise",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "5th to sign",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Pro Wall Hop",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Dart Step-Up",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Derp Gap",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "T1000 over main to deagle",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Platform to 5th",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Awp through deagle to 3rd",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Authentic Slant",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Pro Awp water slant Wrap",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Owned Sonic T1000 Pro Exy Rise",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Sonic awpx2",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Owned Sonic T1000 from strafe",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "4th under deagle to opposite awp",
+        "Tier": 3,
+        "Points": 460
+    },
+    {
+        "Trick Name": "Furby Psycho Remix",
+        "Tier": 3,
+        "Points": 470
+    },
+    {
+        "Trick Name": "Acidic Chrome",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Dog Gap over spawn",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "V Dart Chrome",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Triple Dart Wrap",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Chill Gap",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Deaglex4 to pool",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Don Gap",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Hamadi's Sonic T1000",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Acidic Wrap from spawn",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Hard Cracka Gap",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "McTwist",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Leizy Psycho",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Hamadi's Sonic Jihad",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Khalifa Ze Missiles",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "V3n0m's Big Fall",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Thunderfall",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "3rd through deagle to 3rd",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Femge Wrap",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Sonic T1000 from strafe",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "2nd through deagle to awp water from strafe",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "McTwist Remix",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Deagle Heaven from strafe",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Hamadi's Sonic T1000 Exy Rise",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Hamadi's Sonic Double Jihad",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Pharmacist Retreat",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Leizy Rise",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Something Easy 2.0",
+        "Tier": 3,
+        "Points": 480
+    },
+    {
+        "Trick Name": "Pharmacide from 3rd",
+        "Tier": 3,
+        "Points": 485
+    },
+    {
+        "Trick Name": "Deagle to 6th from spawn",
+        "Tier": 3,
+        "Points": 485
+    },
+    {
+        "Trick Name": "V Jihad from spawn",
+        "Tier": 3,
+        "Points": 485
+    },
+    {
+        "Trick Name": "Jihad from spawn",
+        "Tier": 3,
+        "Points": 485
+    },
+    {
+        "Trick Name": "Awpx3 from platform bhop",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Hard Monster Gap",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Nightmare",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Pro Mac Wrap",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "V Razor from last",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Reverse Awpx3 around main",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Duke Trick",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Trance's High Dive",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Trance's High Dive Remix",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Deagle to awp box from strafe",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Under 6th to wall hop from strafe",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "5th to spawn water",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Hard Monster Chrome",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Carbon Gap from last",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Hard Acidic Slant",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Carbon Gap from 2nd",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Rock Hop",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "4ly4lyf Exy Rise",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Egyptian Deagle to awp box from strafe",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Ducati's High Dive",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Nostalgia's Double Jihad",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Bogroll from same side of main",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "A trick named after Junior",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Double Hard Dart Chrome",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Hard Chrome Dart",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "V Pitbull Goes to The Pharmacy",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Pro Exy Rise",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Deagle slant from strafe",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Pro Reverse Awpx2 around main",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Reverse Heaven around main",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Ducati Fuck Off from 5th",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Furby Pro Exy Rise",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Pro Awpx2 around main",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Double Hard Dart",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Awp to Matta from strafe",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Jihad V from spawn",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Reaper's Walk",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "4ly4lyf Pro Exy Rise",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Heaven around main",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Cracka Exy Rise",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Egyptian Owned Sonic T1000 from strafe",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Nightmare Puss gap",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Carbon Gap from 4th",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Triple main to top",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Furby Hop",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Carbon Gap from 5th",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Pro V Skyline",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Pr0 Gap",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Pitbull Goes to The Pharmacy",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Acidic Step-Up",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Double Baroo Psycho",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Cracka Hard Exy Rise",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Tsunami slant",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Pro Main slant Wrap",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Pro Mac Hop",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Kross Gap",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "The Hippo Gap",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Hamadi's Trance's High Dive",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Reaper Slant",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Insane Slant",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Under 5th to awp from spawn",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Platform to 4th",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Tobe Go Home from main",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "4ly4lyf Hard Exy Rise",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Under 5th to awp water from strafe",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Awp water slant to opposite awp",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Ouma's Wrap",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Awpx3 from platform bhop Remix",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Hard Pro Cracka Gap",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Silent Gap",
+        "Tier": 4,
+        "Points": 520
+    },
+    {
+        "Trick Name": "Hard Dart Pool Wrap",
+        "Tier": 4,
+        "Points": 525
+    },
+    {
+        "Trick Name": "Matta Dart",
+        "Tier": 4,
+        "Points": 525
+    },
+    {
+        "Trick Name": "Dart Cracka Gap",
+        "Tier": 4,
+        "Points": 525
+    },
+    {
+        "Trick Name": "Acidic Pool Wrap",
+        "Tier": 4,
+        "Points": 525
+    },
+    {
+        "Trick Name": "5th to spawn wall",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Authentic Wrap",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Hard Khalifa Ze Missiles",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Tobe Go Home from 4th wedge",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "T1000 around main",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "0tecH's gap",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Carbonzor",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "PandAir to awp water",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Acidic T1000",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Monster Wrap",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Egyptian Tsunami",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "5th under 4th to awp box from strafe",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Mausi is a Cool Guy",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Tobe Go Home to awp water",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Sign Wrap",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "The Big Bad Trap",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Carbonzor from 5th",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Under 6th to awp water from strafe",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Tobe Go Home from 3rd wedge",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Main slant to top",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Alligator's Swimmin' Hole",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Wrap Gap",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Owned T1000 over main",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Tobe Go Home from 2nd wedge",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Pro Reverse Heaven around main",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Acidic Awpx2",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Dog Twist Exy Rise",
+        "Tier": 4,
+        "Points": 555
+    },
+    {
+        "Trick Name": "Dog Twist Psycho",
+        "Tier": 4,
+        "Points": 555
+    },
+    {
+        "Trick Name": "Dog Psycho",
+        "Tier": 4,
+        "Points": 555
+    },
+    {
+        "Trick Name": "Dog Rise",
+        "Tier": 4,
+        "Points": 555
+    },
+    {
+        "Trick Name": "Crack My Chrome Bitch",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "Double Matta from strafe",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "Tobe Go Home to opposite awp box",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "Holy Water Hop",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "Crack My Dart Bitch",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "6th to deagle hop from strafe",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "Stinkbomb",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "Tsunami to awp water",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "Ono's Wall-Kabout",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "Cisco Psycho",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "Habibi Twist from spawn",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "Jihad Twist from spawn",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "The WOLPH",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "3rd through deagle to 2nd",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "Bambii Hop",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "Rise from 3rd",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "Cisco Rise",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "Chrome Twist from spawn",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "Quintuple Dart Wrap",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Something Hard",
+        "Tier": 4,
+        "Points": 599
+    },
+    {
+        "Trick Name": "Something Easy",
+        "Tier": 4,
+        "Points": 599
+    },
+    {
+        "Trick Name": "Pro Carbon Gap",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Mac's Chrome",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Ducati Fuck Off from 4th",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "2nd through deagle to Tobe Go Home",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Hard Kross Climb",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Flogan Rise",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Nifty T1000",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Nick's Long Jump",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Deagle to Tobe Go Home",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Double Dart Gap",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "PandAir to awp box",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Nostalgia's Step-Up",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Flipy XXL",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Reaper's Long Jump",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Hard Mac Wrap",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Hard Pro Crack My Pool",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Reaper's Dog Gap",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Tsunami to awp box",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Hard Exy Rise",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Owned T1000 over main to deagle",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Furby Hard Exy Rise",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "The Ocho from strafe",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "6th to sign",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Pyramid Go Home",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Glimpse Twist",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Acidic Rise from 3rd",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Ducati Fuck Off from strafe",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "4th under deagle to pool",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "4th under 3rd to awp from strafe",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Double Dart Chrome",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "2nd under deagle to awp water slant to pool",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Dog Gap Remix from strafe",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Mac's C-Walk",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Double Dart Step-Up",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Pro Crack My Dart Bitch",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Jambog to awpbox",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Sonic Jihad",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "V Main to sign",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Leizy Exy Rise",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Liquid's Fresh Step-Up",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "3rd under 2nd to awp water slant to pool",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Sonic T1000 over main from strafe",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Owned Sonic T1000 over main from strafe",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Falc's Trick",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Dart Rise",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Reaper Go Home",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Dart Psycho",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Flogan Psycho",
+        "Tier": 4,
+        "Points": 625
+    },
+    {
+        "Trick Name": "Glimpse Wrap Twist",
+        "Tier": 4,
+        "Points": 625
+    },
+    {
+        "Trick Name": "Monster Chrome Wrap",
+        "Tier": 4,
+        "Points": 625
+    },
+    {
+        "Trick Name": "Pro Crack My Chrome Bitch",
+        "Tier": 4,
+        "Points": 630
+    },
+    {
+        "Trick Name": "Easy Nightmare Remix 2.0",
+        "Tier": 4,
+        "Points": 630
+    },
+    {
+        "Trick Name": "Cyclone T1000",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Flawlecopter",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Awp Wrap to pool from strafe",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Sonic Habibi",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Tobe Go Home from 5th Wedge",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Soko Ono from spawn",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Hop Owned",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Sonic z1000 Twist",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "McRyan Wrap",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Sign Slant from strafe",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "4th through deagle to pool",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Reverse Sign Wrap",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Owned z1000 twist",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Waave Walk Twist",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "McAries T1000",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Awpx3 around main",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Hop Sonic",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "V Sing from 2nd",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Sonic z1000 From Spawn",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "The Scarier Matta",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Trofle's Trick",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "6th around 1st to deagle",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Hard Acidic Slant chrome",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "2nd to top",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Flogan Exy Rise",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Pro Stinkbomb",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "6th under 5th to Hart Slant",
+        "Tier": 4,
+        "Points": 656
+    },
+    {
+        "Trick Name": "666",
+        "Tier": 4,
+        "Points": 666
+    },
+    {
+        "Trick Name": "3rd through deagle to 1st",
+        "Tier": 4,
+        "Points": 675
+    },
+    {
+        "Trick Name": "Flogan V Exy Rise",
+        "Tier": 4,
+        "Points": 675
+    },
+    {
+        "Trick Name": "Egyptian Flogan Rise",
+        "Tier": 4,
+        "Points": 675
+    },
+    {
+        "Trick Name": "Matthew is a Psycho",
+        "Tier": 4,
+        "Points": 675
+    },
+    {
+        "Trick Name": "Tsunami Tobe Go Home",
+        "Tier": 4,
+        "Points": 675
+    },
+    {
+        "Trick Name": "Triple Jihad",
+        "Tier": 4,
+        "Points": 675
+    },
+    {
+        "Trick Name": "Reaper Go Home to opposite awp box",
+        "Tier": 4,
+        "Points": 675
+    },
+    {
+        "Trick Name": "Egyptian Glimpse Wrap",
+        "Tier": 4,
+        "Points": 675
+    },
+    {
+        "Trick Name": "6th to spawn",
+        "Tier": 4,
+        "Points": 685
+    },
+    {
+        "Trick Name": "Double Jihad from spawn",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Dart Exy Rise",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Deagle to pool from strafe",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Exported Step-Up Remix",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Flogan Pro Exy Rise",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Hard Crack My Pool",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Trolle's Trick",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Strafe Chrome",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "V Razor",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Nightmare Chrome",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Strafe Parachute",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Selena Is Super Sexy",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Nightmare Trolle",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Platform to Tobe Go Home",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Exported Step-Up",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Ducati Fuck Off from 3rd",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Quadruple Dart Wrap",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "Pro Wrap Gap",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "2nd through deagle to Tobe Go Home to opposite awp box",
+        "Tier": 4,
+        "Points": 725
+    },
+    {
+        "Trick Name": "Cyclone to Tobe Go Home",
+        "Tier": 4,
+        "Points": 725
+    },
+    {
+        "Trick Name": "Deagle to Tobe Go Home to opposite awp box",
+        "Tier": 4,
+        "Points": 725
+    },
+    {
+        "Trick Name": "2nd under deagle to Tobe Go Home",
+        "Tier": 4,
+        "Points": 725
+    },
+    {
+        "Trick Name": "T1000 is a dog from strafe",
+        "Tier": 4,
+        "Points": 725
+    },
+    {
+        "Trick Name": "Hurricane",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Monster Sonic T1000",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Under 4th to awp water slant to pool",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Double Easy Rise",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Owned Sonic T1000 from spawn",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "3rd through deagle to awp from strafe",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Bogroll Psycho",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Hard Bambii Hop",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "5th through deagle slant",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Waaveroll Hop",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Bogroll Rise",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "5th through deagle to awp",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "0tecH Go Home",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Authentic's Parachute",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Acidic Psycho from 3rd",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Winter Fun",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Tobe Go Home from 2nd wedge to opposite awp box",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "V Skittles",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Flogan Hard Exy Rise",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Mac Wrap",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Dog V Psycho",
+        "Tier": 4,
+        "Points": 755
+    },
+    {
+        "Trick Name": "Nifty's Highrise",
+        "Tier": 4,
+        "Points": 755
+    },
+    {
+        "Trick Name": "5th under 4th to awp water slant to pool",
+        "Tier": 4,
+        "Points": 755
+    },
+    {
+        "Trick Name": "Tobe Go Home from main to opposite awp box",
+        "Tier": 4,
+        "Points": 765
+    },
+    {
+        "Trick Name": "Weiiv Chrome",
+        "Tier": 4,
+        "Points": 775
+    },
+    {
+        "Trick Name": "6th to spawn wall",
+        "Tier": 4,
+        "Points": 775
+    },
+    {
+        "Trick Name": "5th through deagle to awp water",
+        "Tier": 4,
+        "Points": 775
+    },
+    {
+        "Trick Name": "Acidic Heaven",
+        "Tier": 4,
+        "Points": 775
+    },
+    {
+        "Trick Name": "Hard Cracka Pro Exy Rise",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "That's how we remix",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Hamadi's z1000 from spawn",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "That's how we Jihad",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Hard Dart Psycho",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Hard Cracka Exy Rise",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Voner climb",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "The Pharmaceutical",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Pro Skittleszor from 3rd",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "3rd through deagle to Tobe Go Home",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Jambog Remix",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Sonic T1000 From 2nd",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Acidic Dart",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Pro Skittleszor",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Egyptian Flogan Psycho",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Platform to awp box from strafe",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "V Sonic T1000",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "V Tiny Rise",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "That's how we Walk",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Awpx4 from platform bhop Remix",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Dart Gap Chrome from spawn",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "3rd under 2nd to awp from strafe",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "6666",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Fast Skittles",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "V Double Snowman Gap",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Zebraceutical",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Leizy Pro Exy Rise",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Dart Wrap from spawn",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Tsunami to Pool",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Ducati Fuck Off from 2nd",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "JamBog",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Soko Ono Sonic T1000 from strafe",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Hamadi's Jihad from spawn",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Oza Wrap",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Pro Exy Rise from 3rd",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Exy Rise from 3rd",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "6th to spawn water",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Hamadi's Habibi from spawn",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Hard Dart Rise",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Dart Gap from spawn",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Skyline's Gap",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Jaywalk",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Bendy's Big Spin",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "The Flying Femge",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "V Sonic Jihad",
+        "Tier": 4,
+        "Points": 825
+    },
+    {
+        "Trick Name": "2nd under deagle to Tobe Go Home to opposite awp box",
+        "Tier": 4,
+        "Points": 825
+    },
+    {
+        "Trick Name": "Egyptian Flogan Exy Rise",
+        "Tier": 4,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Dart Pro Exy Rise",
+        "Tier": 4,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Tobe Go Home from 3rd wedge to opposite awp box",
+        "Tier": 4,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Mulped Snus-Up",
+        "Tier": 4,
+        "Points": 850
+    },
+    {
+        "Trick Name": "MoonBear's Fun Gay Ride",
+        "Tier": 4,
+        "Points": 850
+    },
+    {
+        "Trick Name": "6th through deagle to awp",
+        "Tier": 4,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Pitbull's Retreat",
+        "Tier": 4,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Hard Oza Wrap",
+        "Tier": 4,
+        "Points": 850
+    },
+    {
+        "Trick Name": "V Sonic z1000",
+        "Tier": 4,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Even Rise",
+        "Tier": 4,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Even Psycho",
+        "Tier": 4,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Skyline Twist",
+        "Tier": 4,
+        "Points": 850
+    },
+    {
+        "Trick Name": "6th under 5th to awp water slant to pool",
+        "Tier": 4,
+        "Points": 855
+    },
+    {
+        "Trick Name": "The Classic Pharm from last",
+        "Tier": 4,
+        "Points": 865
+    },
+    {
+        "Trick Name": "V Dart Sonic T1000",
+        "Tier": 4,
+        "Points": 875
+    },
+    {
+        "Trick Name": "Hard Jihad",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "V Egyptian Glimpse Wrap",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "4ly4lyf Tobe Go Home",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Pro Reverse Awpx3 around main",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Hard Dart Exy Rise",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Awp through deagle to 4th",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Cyclone to awp from 2nd",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Surprise madafaka",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Tsunami to 6th",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Double Sonic T1000 from strafe",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Sonic T1000 From Sign",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "3rd through deagle to Tobe Go Home to opposite awp box",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Pirate's Walk",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "5th under deagle to opposite awp",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Pitbull Hops Home",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "V Pro Exy Flogan",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "McAries Tobe Go Home",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "V Glimpse Wrap",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Cyclone to awp box from 2nd",
+        "Tier": 4,
+        "Points": 925
+    },
+    {
+        "Trick Name": "The Kamikaze Hop from spawn",
+        "Tier": 4,
+        "Points": 925
+    },
+    {
+        "Trick Name": "3rd under deagle to Tobe Go Home",
+        "Tier": 4,
+        "Points": 925
+    },
+    {
+        "Trick Name": "Mike's Parachute",
+        "Tier": 4,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Egyptian V Glimpse Wrap",
+        "Tier": 4,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Mausi is a Very Cool Guy",
+        "Tier": 4,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Hard Egyptian Waave Walk",
+        "Tier": 4,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Odd Sonic",
+        "Tier": 4,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Skyline's Walk",
+        "Tier": 4,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Glimpse Walk",
+        "Tier": 4,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Dart Hard Exy Rise",
+        "Tier": 4,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Go Home by Jumpin'",
+        "Tier": 4,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Egyptian Waave Walk",
+        "Tier": 4,
+        "Points": 950
+    },
+    {
+        "Trick Name": "4ly4lyf Tobe Go Home to opposite awp box",
+        "Tier": 4,
+        "Points": 950
+    },
+    {
+        "Trick Name": "5th through deagle to awp box",
+        "Tier": 4,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Awp to pyramid from strafe",
+        "Tier": 4,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Tobe Go Home from 4th wedge to opposite awp box",
+        "Tier": 4,
+        "Points": 950
+    },
+    {
+        "Trick Name": "V Rise",
+        "Tier": 4,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Pyramid Wrap Matta",
+        "Tier": 4,
+        "Points": 990
+    },
+    {
+        "Trick Name": "God Go Home",
+        "Tier": 4,
+        "Points": 999
+    },
+    {
+        "Trick Name": "Double Jhlimpse",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Quadruple Jihad",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Triple Trooper Wrap",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "God Go Home to opposite awp box",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Hard Matthew Rise",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Pro Egyptian Gator Walk",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Egyptian Flogan Pro Exy Rise",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Spawn divide Skittles",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "4th under deagle to Tobe Go Home",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Leizy Hard Exy Rise",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Chill Wrap",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Sign Skittles",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "0tecH Go Home to opposite awpbox",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Awp 4 Over Main",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Skyline Go Home",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Skyline Go Home to opposite awp box",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Double Lejos Wrap",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Pitbull Hops Home to opposite awp box",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Hard Waaveroll Hop",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Double Main to sign from strafe",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "6th through deagle to awp water",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Pro Awpx2",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Hard Skyline Gap",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Pro Hard Jihad",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Hard Dart Pro Exy Rise",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Matthew Go Home",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Pro ATS High Dive",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Cracka Slant Gap",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "V Authentic's Parachute",
+        "Tier": 5,
+        "Points": 1050
+    },
+    {
+        "Trick Name": "Tobe Go Home from 5th wedge to opposite awp box",
+        "Tier": 5,
+        "Points": 1050
+    },
+    {
+        "Trick Name": "Divide Exy Rise",
+        "Tier": 5,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Divide Hard Exy Rise",
+        "Tier": 5,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Egyptian Bogroll Rise",
+        "Tier": 5,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Pro Gator Walk",
+        "Tier": 5,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Hard Exy Rise from 3rd",
+        "Tier": 5,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "V Chrome from spawn",
+        "Tier": 5,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Divide Pro Exy Rise",
+        "Tier": 5,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Divide Psycho",
+        "Tier": 5,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Kholle's Trick",
+        "Tier": 5,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Hard Pitbull's Retreat",
+        "Tier": 5,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Divide Rise",
+        "Tier": 5,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Sign Rise",
+        "Tier": 5,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Matthew Exy Rise",
+        "Tier": 5,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Pro ATS High Dive to opposite Box",
+        "Tier": 5,
+        "Points": 1150
+    },
+    {
+        "Trick Name": "4th through deagle to Tobe Go Home",
+        "Tier": 5,
+        "Points": 1150
+    },
+    {
+        "Trick Name": "Edward Go Home to opposite awp box",
+        "Tier": 5,
+        "Points": 1150
+    },
+    {
+        "Trick Name": "Edward Go Home",
+        "Tier": 5,
+        "Points": 1150
+    },
+    {
+        "Trick Name": "Flogan Rise and a Half",
+        "Tier": 5,
+        "Points": 1150
+    },
+    {
+        "Trick Name": "6th through deagle to awp box",
+        "Tier": 5,
+        "Points": 1150
+    },
+    {
+        "Trick Name": "Flogan V Hard Exy Rise",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Wall-Hop Matta",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Michael's Parachute",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "ATS High Dive",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Ducati Fuck Off from opposite 2nd",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Hard Cracka Hard Exy Rise",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Double Owned Sonic T1000 from strafe",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Zoonami",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Awp through deagle to 5th",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Pwned Step-Up",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "5th through deagle to pool",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Hard Hamadi's Jihad",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Atmos Go Home",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "6th through deagle slant",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Nightmare Pool Wrap",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Double Dart Matta",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "3rd under deagle to Tobe Go Home to opposite awp box",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Triple Jihad from spawn",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "4th under deagle to Tobe Go Home to opposite awp box",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "V Mike's Parachute",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Double Cracka Gap",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Bogroll Exy Rise",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Chiller does the Voner",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Hamadi's Waave Walk",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Hamadi's Glimpse Wrap",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Awp 4 Heaven",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Easy Skittles",
+        "Tier": 5,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Dog Gap to top",
+        "Tier": 5,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "4th through deagle to Tobe Go Home to opposite awp box",
+        "Tier": 5,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Hard Waave Walk",
+        "Tier": 5,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Owned Flogan Rise",
+        "Tier": 5,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Hard Duke Trick",
+        "Tier": 5,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Heaven Slants",
+        "Tier": 5,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Hard Dart Hard Exy Rise",
+        "Tier": 5,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Egyptian Bogroll Psycho",
+        "Tier": 5,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Songe T1000",
+        "Tier": 5,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "Triple Lejos Wrap",
+        "Tier": 5,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "Songe T1000 from strafe",
+        "Tier": 5,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "Egyptian Glimpse Walk",
+        "Tier": 5,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "Voner climb from 5th",
+        "Tier": 5,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "Pro Awpx3",
+        "Tier": 5,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "Matthew Pro Exy Rise",
+        "Tier": 5,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "V Egyptian Waave Walk",
+        "Tier": 5,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "Hamadi's Rise from 3rd",
+        "Tier": 5,
+        "Points": 1350
+    },
+    {
+        "Trick Name": "Jungle Jim from strafe",
+        "Tier": 5,
+        "Points": 1350
+    },
+    {
+        "Trick Name": "Awp 4 Slant",
+        "Tier": 5,
+        "Points": 1350
+    },
+    {
+        "Trick Name": "Vegan Jumping Bean Burrito",
+        "Tier": 5,
+        "Points": 1350
+    },
+    {
+        "Trick Name": "V Skyline's Walk",
+        "Tier": 5,
+        "Points": 1380
+    },
+    {
+        "Trick Name": "Leizy Psycho from 2nd",
+        "Tier": 5,
+        "Points": 1400
+    },
+    {
+        "Trick Name": "Surprise madafaka 2.0",
+        "Tier": 5,
+        "Points": 1400
+    },
+    {
+        "Trick Name": "Leizy Rise from 2nd",
+        "Tier": 5,
+        "Points": 1400
+    },
+    {
+        "Trick Name": "Dart Divide Rise",
+        "Tier": 5,
+        "Points": 1400
+    },
+    {
+        "Trick Name": "Easy Sign Rise",
+        "Tier": 5,
+        "Points": 1400
+    },
+    {
+        "Trick Name": "Hard Matthew is a Psycho",
+        "Tier": 5,
+        "Points": 1400
+    },
+    {
+        "Trick Name": "Divide Rise from 3rd",
+        "Tier": 5,
+        "Points": 1450
+    },
+    {
+        "Trick Name": "Mike's Glimpse Wrap",
+        "Tier": 5,
+        "Points": 1450
+    },
+    {
+        "Trick Name": "V Waave Walk",
+        "Tier": 5,
+        "Points": 1450
+    },
+    {
+        "Trick Name": "V Nightmare",
+        "Tier": 5,
+        "Points": 1450
+    },
+    {
+        "Trick Name": "Hard Gator Walk",
+        "Tier": 5,
+        "Points": 1450
+    },
+    {
+        "Trick Name": "Hard Pyramid Wrap Matta",
+        "Tier": 5,
+        "Points": 1450
+    },
+    {
+        "Trick Name": "Egyptian V Waave Walk",
+        "Tier": 5,
+        "Points": 1450
+    },
+    {
+        "Trick Name": "Hamadi's Authentic Parachute",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Think you can Skittles?",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Flogan Rise from 3rd",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Leizy Flogan Rise",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Yet another Bogroll trick",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Orange Rise",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Hard Dart Cracka",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Ducati Down Syndrome",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Matthew Loop Rise",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Double Jungle Jim",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Egyptian Flogan Hard Exy Rise",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Huge Psycho",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Awpx2 from Tobe",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Quadruple Jihad from spawn",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Double Jihad V from spawn",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Odd Flogan Rise",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Bogroll Hop",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "5th around 1st to deagle from strafe",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Double V Jihad from spawn",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Hard Authentic's Parachute",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Quintuple Jihad",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Awpx2 from platform bhop from strafe",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Bendy's Huge Spin",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Platform to pool from strafe",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Hard Nightmare",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Super slant",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Whop Rise",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Sign Slant Step-Up",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Skyline Come Home",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Flogan Divide Rise",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Skyline's Awpx3",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Double Hard Dart Matta",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "5th through deagle to Tobe Go Home",
+        "Tier": 5,
+        "Points": 1550
+    },
+    {
+        "Trick Name": "Zoonami to Awp Water",
+        "Tier": 5,
+        "Points": 1550
+    },
+    {
+        "Trick Name": "Even Stevens",
+        "Tier": 5,
+        "Points": 1550
+    },
+    {
+        "Trick Name": "Double Dart Wrap from spawn",
+        "Tier": 5,
+        "Points": 1550
+    },
+    {
+        "Trick Name": "Matthew Hard Exy Rise",
+        "Tier": 5,
+        "Points": 1600
+    },
+    {
+        "Trick Name": "Furby Skittles",
+        "Tier": 5,
+        "Points": 1600
+    },
+    {
+        "Trick Name": "Strafe Step-Up",
+        "Tier": 5,
+        "Points": 1600
+    },
+    {
+        "Trick Name": "Extreme Nightmare",
+        "Tier": 5,
+        "Points": 1600
+    },
+    {
+        "Trick Name": "Hard Sonic z1000 Twist",
+        "Tier": 5,
+        "Points": 1600
+    },
+    {
+        "Trick Name": "MBrection",
+        "Tier": 5,
+        "Points": 1600
+    },
+    {
+        "Trick Name": "Mini Matta",
+        "Tier": 5,
+        "Points": 1600
+    },
+    {
+        "Trick Name": "Jungle Jim from 3rd from strafe",
+        "Tier": 5,
+        "Points": 1600
+    },
+    {
+        "Trick Name": "Flogan Divide Psycho",
+        "Tier": 5,
+        "Points": 1600
+    },
+    {
+        "Trick Name": "Bogroll Pro Exy Rise",
+        "Tier": 5,
+        "Points": 1650
+    },
+    {
+        "Trick Name": "Skittles from 2nd",
+        "Tier": 5,
+        "Points": 1650
+    },
+    {
+        "Trick Name": "Around the World Jihad",
+        "Tier": 5,
+        "Points": 1650
+    },
+    {
+        "Trick Name": "5th through deagle to Tobe Go Home to opposite awp box",
+        "Tier": 5,
+        "Points": 1650
+    },
+    {
+        "Trick Name": "Dart Flogan Exy Rise",
+        "Tier": 5,
+        "Points": 1650
+    },
+    {
+        "Trick Name": "Ducati Fuck Off from 5th from strafe",
+        "Tier": 5,
+        "Points": 1650
+    },
+    {
+        "Trick Name": "Dart Rise from 3rd",
+        "Tier": 5,
+        "Points": 1650
+    },
+    {
+        "Trick Name": "Dart Flogan Psycho",
+        "Tier": 5,
+        "Points": 1650
+    },
+    {
+        "Trick Name": "Mike's Parachute Remix",
+        "Tier": 5,
+        "Points": 1700
+    },
+    {
+        "Trick Name": "6th through deagle to pool",
+        "Tier": 5,
+        "Points": 1700
+    },
+    {
+        "Trick Name": "Hard Skyline Walk",
+        "Tier": 5,
+        "Points": 1700
+    },
+    {
+        "Trick Name": "Hard Owned Sonic z1000 Twist",
+        "Tier": 5,
+        "Points": 1700
+    },
+    {
+        "Trick Name": "Wall-hop Step-Up to 3rd from strafe",
+        "Tier": 5,
+        "Points": 1700
+    },
+    {
+        "Trick Name": "Flogan Divide Exy Rise",
+        "Tier": 5,
+        "Points": 1700
+    },
+    {
+        "Trick Name": "Deagle to Matta from spawn",
+        "Tier": 5,
+        "Points": 1700
+    },
+    {
+        "Trick Name": "Chrome Dart Wrap from spawn",
+        "Tier": 5,
+        "Points": 1700
+    },
+    {
+        "Trick Name": "Furby Skittles from 3rd",
+        "Tier": 6,
+        "Points": 1750
+    },
+    {
+        "Trick Name": "Bandit Nightmare Jihad",
+        "Tier": 6,
+        "Points": 1750
+    },
+    {
+        "Trick Name": "Double Pro Main to sign from strafe",
+        "Tier": 6,
+        "Points": 1750
+    },
+    {
+        "Trick Name": "V Nightmare Chrome",
+        "Tier": 6,
+        "Points": 1750
+    },
+    {
+        "Trick Name": "ATS High Dive to opposite awp box",
+        "Tier": 6,
+        "Points": 1750
+    },
+    {
+        "Trick Name": "Mike's Z1000",
+        "Tier": 6,
+        "Points": 1750
+    },
+    {
+        "Trick Name": "Tricky Rise",
+        "Tier": 6,
+        "Points": 1750
+    },
+    {
+        "Trick Name": "Triple Dart Wrap from spawn",
+        "Tier": 6,
+        "Points": 1750
+    },
+    {
+        "Trick Name": "Orange Psycho",
+        "Tier": 6,
+        "Points": 1750
+    },
+    {
+        "Trick Name": "Egyptian Orange Rise",
+        "Tier": 6,
+        "Points": 1750
+    },
+    {
+        "Trick Name": "Leizy Flogan Psycho",
+        "Tier": 6,
+        "Points": 1750
+    },
+    {
+        "Trick Name": "Flying Beetle",
+        "Tier": 6,
+        "Points": 1790
+    },
+    {
+        "Trick Name": "OG Awpx2 from spawn",
+        "Tier": 6,
+        "Points": 1800
+    },
+    {
+        "Trick Name": "6th through deagle to Tobe Go Home",
+        "Tier": 6,
+        "Points": 1800
+    },
+    {
+        "Trick Name": "Double Divide Rise",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Egyptian Bogroll over main",
+        "Tier": 6,
+        "Points": 1800
+    },
+    {
+        "Trick Name": "Divide Skittles",
+        "Tier": 6,
+        "Points": 1800
+    },
+    {
+        "Trick Name": "6th under deagle to opposite awp",
+        "Tier": 6,
+        "Points": 1800
+    },
+    {
+        "Trick Name": "Cracka Rise",
+        "Tier": 6,
+        "Points": 1800
+    },
+    {
+        "Trick Name": "Triple Dart Gap",
+        "Tier": 6,
+        "Points": 1800
+    },
+    {
+        "Trick Name": "Awp 4 Heaven over main",
+        "Tier": 6,
+        "Points": 1800
+    },
+    {
+        "Trick Name": "Chillin'",
+        "Tier": 6,
+        "Points": 1800
+    },
+    {
+        "Trick Name": "Flogan Divide Pro Exy Rise",
+        "Tier": 6,
+        "Points": 1800
+    },
+    {
+        "Trick Name": "Matta is a Dart",
+        "Tier": 6,
+        "Points": 1800
+    },
+    {
+        "Trick Name": "Tobe Twist",
+        "Tier": 6,
+        "Points": 1800
+    },
+    {
+        "Trick Name": "Mike's Glimpse Wrap Remix",
+        "Tier": 6,
+        "Points": 1850
+    },
+    {
+        "Trick Name": "Egyptian Orange Psycho",
+        "Tier": 6,
+        "Points": 1850
+    },
+    {
+        "Trick Name": "Furby Sign Rise",
+        "Tier": 6,
+        "Points": 1850
+    },
+    {
+        "Trick Name": "Mike's Owned Z1000",
+        "Tier": 6,
+        "Points": 1850
+    },
+    {
+        "Trick Name": "Sonic Skittles",
+        "Tier": 6,
+        "Points": 1850
+    },
+    {
+        "Trick Name": "Hard Dart Flogan Rise",
+        "Tier": 6,
+        "Points": 1850
+    },
+    {
+        "Trick Name": "Dart Slant Gap",
+        "Tier": 6,
+        "Points": 1850
+    },
+    {
+        "Trick Name": "Bogroll's Insanity",
+        "Tier": 6,
+        "Points": 1850
+    },
+    {
+        "Trick Name": "Sonic T1000 to Sign",
+        "Tier": 6,
+        "Points": 1850
+    },
+    {
+        "Trick Name": "Ducati Fuck Off from opposite 3rd",
+        "Tier": 6,
+        "Points": 1850
+    },
+    {
+        "Trick Name": "Hardest Egyptian Waave Walk",
+        "Tier": 6,
+        "Points": 1900
+    },
+    {
+        "Trick Name": "Pro Waave Walk",
+        "Tier": 6,
+        "Points": 1900
+    },
+    {
+        "Trick Name": "Tobe Twist to opposite awp box",
+        "Tier": 6,
+        "Points": 1900
+    },
+    {
+        "Trick Name": "Legacy Rise",
+        "Tier": 6,
+        "Points": 1900
+    },
+    {
+        "Trick Name": "Flogan Double Divide Rise",
+        "Tier": 6,
+        "Points": 1900
+    },
+    {
+        "Trick Name": "Hard V Skyline Walk",
+        "Tier": 6,
+        "Points": 1900
+    },
+    {
+        "Trick Name": "Flogan Psycho from 3rd",
+        "Tier": 6,
+        "Points": 1900
+    },
+    {
+        "Trick Name": "Skyline's Insanity",
+        "Tier": 6,
+        "Points": 1900
+    },
+    {
+        "Trick Name": "Orange Exy Rise",
+        "Tier": 6,
+        "Points": 1900
+    },
+    {
+        "Trick Name": "6th through deagle to Tobe Go Home to opposite awp box",
+        "Tier": 6,
+        "Points": 1900
+    },
+    {
+        "Trick Name": "Flogan Divide Hard Exy Rise",
+        "Tier": 6,
+        "Points": 1950
+    },
+    {
+        "Trick Name": "Dart Flogan Pro Exy Rise",
+        "Tier": 6,
+        "Points": 1950
+    },
+    {
+        "Trick Name": "Owned Sonic Jihad from spawn",
+        "Tier": 6,
+        "Points": 1950
+    },
+    {
+        "Trick Name": "Double Dart Rise",
+        "Tier": 6,
+        "Points": 1950
+    },
+    {
+        "Trick Name": "Hard Dart Flogan Psycho",
+        "Tier": 6,
+        "Points": 1950
+    },
+    {
+        "Trick Name": "Mike's Waave Walk",
+        "Tier": 6,
+        "Points": 1950
+    },
+    {
+        "Trick Name": "Flogan Double Divide Psycho",
+        "Tier": 6,
+        "Points": 1950
+    },
+    {
+        "Trick Name": "Flogan Exy Rise from 3rd",
+        "Tier": 6,
+        "Points": 1950
+    },
+    {
+        "Trick Name": "6th around 1st to deagle from strafe",
+        "Tier": 6,
+        "Points": 1950
+    },
+    {
+        "Trick Name": "Bogroll Hard Exy Rise",
+        "Tier": 6,
+        "Points": 1950
+    },
+    {
+        "Trick Name": "Quadruple Dart Wrap from spawn",
+        "Tier": 6,
+        "Points": 1950
+    },
+    {
+        "Trick Name": "MB Go Home, you're drunk",
+        "Tier": 6,
+        "Points": 1950
+    },
+    {
+        "Trick Name": "Furby Rise from 4th",
+        "Tier": 6,
+        "Points": 1987
+    },
+    {
+        "Trick Name": "Mike's Waave Walk Remix",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Sync Rise",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Double Pool Wrap from strafe",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Bogroll is a Pirate",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Awp 4 Slant Heaven",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Jungle Pirate",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "4ly4lyf Skittles",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Lejos is a Puss",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Platform to 6th from strafe",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Quintuple Jihad from spawn",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Furby Sign Rise from 3rd",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Triple V Jihad from spawn",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Hamadi's Deagle to pool from strafe",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Hard Authentic's Parachute Chrome",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Bogroll Divide Rise",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Jumping Bean Burrito",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Hamadi's Mike's Parachute",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Double Mike's Parachute",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Sonic Dart from spawn",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Awp to main from strafe",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Legacy Psycho",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Pirate Step-Up",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Flogan Pro Exy Rise from 3rd",
+        "Tier": 6,
+        "Points": 2050
+    },
+    {
+        "Trick Name": "Dart Bogroll Rise",
+        "Tier": 6,
+        "Points": 2100
+    },
+    {
+        "Trick Name": "Double Flogan Rise",
+        "Tier": 6,
+        "Points": 2100
+    },
+    {
+        "Trick Name": "Pro Egyptian Waave Walk",
+        "Tier": 6,
+        "Points": 2100
+    },
+    {
+        "Trick Name": "Flogan Hard Exy Rise from 3rd",
+        "Tier": 6,
+        "Points": 2150
+    },
+    {
+        "Trick Name": "Hard Chill Wrap",
+        "Tier": 6,
+        "Points": 2200
+    },
+    {
+        "Trick Name": "Dart Flogan Hard Exy Rise",
+        "Tier": 6,
+        "Points": 2200
+    },
+    {
+        "Trick Name": "Orange Pro Exy Rise",
+        "Tier": 6,
+        "Points": 2200
+    },
+    {
+        "Trick Name": "Easy Rise from spawn",
+        "Tier": 6,
+        "Points": 2200
+    },
+    {
+        "Trick Name": "Triple Dart Chrome",
+        "Tier": 6,
+        "Points": 2200
+    },
+    {
+        "Trick Name": "Bogroll Divide Psycho",
+        "Tier": 6,
+        "Points": 2250
+    },
+    {
+        "Trick Name": "Sync Psycho",
+        "Tier": 6,
+        "Points": 2300
+    },
+    {
+        "Trick Name": "Bogroll Divide Exy Rise",
+        "Tier": 6,
+        "Points": 2350
+    },
+    {
+        "Trick Name": "Tropical Pirate",
+        "Tier": 6,
+        "Points": 2400
+    },
+    {
+        "Trick Name": "Double Dart Psycho",
+        "Tier": 6,
+        "Points": 2400
+    },
+    {
+        "Trick Name": "Ducati Adventure",
+        "Tier": 6,
+        "Points": 2400
+    },
+    {
+        "Trick Name": "Matta is a Dart Chrome",
+        "Tier": 6,
+        "Points": 2400
+    },
+    {
+        "Trick Name": "Skyline is a Pirate",
+        "Tier": 6,
+        "Points": 2400
+    },
+    {
+        "Trick Name": "Bog Bounce",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Double Flogan Psycho",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Orange Hard Exy Rise",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Bogroll Divide Pro Exy Rise",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Flogan Divide Skittles",
+        "Tier": 6,
+        "Points": 2300
+    },
+    {
+        "Trick Name": "Trofle Rise",
+        "Tier": 6,
+        "Points": 2300
+    },
+    {
+        "Trick Name": "Triple Mike's Parachute",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Leizy Bogroll Rise",
+        "Tier": 7,
+        "Points": 2600
+    },
+    {
+        "Trick Name": "Dart Bogroll Psycho",
+        "Tier": 7,
+        "Points": 2650
+    },
+    {
+        "Trick Name": "Trofle Psycho",
+        "Tier": 7,
+        "Points": 2750
+    },
+    {
+        "Trick Name": "Bogroll Divide Hard Exy Rise",
+        "Tier": 7,
+        "Points": 2750
+    },
+    {
+        "Trick Name": "Hard Dart Bogroll Rise",
+        "Tier": 7,
+        "Points": 2750
+    },
+    {
+        "Trick Name": "Dart Bogroll Exy Rise",
+        "Tier": 7,
+        "Points": 2800
+    },
+    {
+        "Trick Name": "Hard Double Flogan Rise",
+        "Tier": 7,
+        "Points": 2800
+    },
+    {
+        "Trick Name": "Tobe Go Home to opposite awp water",
+        "Tier": 7,
+        "Points": 2800
+    },
+    {
+        "Trick Name": "Bogroll Double Divide Rise",
+        "Tier": 7,
+        "Points": 2800
+    },
+    {
+        "Trick Name": "Ducati Fuck Her Right in the Pussy",
+        "Tier": 7,
+        "Points": 2850
+    },
+    {
+        "Trick Name": "Dart Skittles",
+        "Tier": 7,
+        "Points": 2900
+    },
+    {
+        "Trick Name": "Cracka Skittles",
+        "Tier": 7,
+        "Points": 2900
+    },
+    {
+        "Trick Name": "Flogan Sign Rise",
+        "Tier": 7,
+        "Points": 3200
+    },
+    {
+        "Trick Name": "Flogan Skittles",
+        "Tier": 7,
+        "Points": 2900
+    },
+    {
+        "Trick Name": "Hard Dart Bogroll Psycho",
+        "Tier": 7,
+        "Points": 2950
+    },
+    {
+        "Trick Name": "Egyptian Trofle Rise",
+        "Tier": 7,
+        "Points": 2950
+    },
+    {
+        "Trick Name": "All kinds of strafes",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Double Ocho from strafe",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "66666",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Trofle Exy Rise",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Dart Bogroll Pro Exy Rise",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Skittles from 3rd",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Bogroll Rise from 3rd",
+        "Tier": 7,
+        "Points": 3250
+    },
+    {
+        "Trick Name": "Hard Sync Rise",
+        "Tier": 7,
+        "Points": 3250
+    },
+    {
+        "Trick Name": "Orange Divide Rise",
+        "Tier": 7,
+        "Points": 3350
+    },
+    {
+        "Trick Name": "Orange Divide Psycho",
+        "Tier": 7,
+        "Points": 3450
+    },
+    {
+        "Trick Name": "Dart Bogroll Hard Exy Rise",
+        "Tier": 7,
+        "Points": 3500
+    },
+    {
+        "Trick Name": "Orange Divide Exy Rise",
+        "Tier": 7,
+        "Points": 3500
+    },
+    {
+        "Trick Name": "Orange Divide Pro Exy Rise",
+        "Tier": 7,
+        "Points": 3650
+    },
+    {
+        "Trick Name": "Hard Cracka Skittles",
+        "Tier": 7,
+        "Points": 3700
+    },
+    {
+        "Trick Name": "Dart Orange Rise",
+        "Tier": 7,
+        "Points": 3750
+    },
+    {
+        "Trick Name": "Orange Divide Hard Exy Rise",
+        "Tier": 7,
+        "Points": 3950
+    },
+    {
+        "Trick Name": "Dart Orange Psycho",
+        "Tier": 7,
+        "Points": 3950
+    },
+    {
+        "Trick Name": "Pirate Rise",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "Hard Dart Orange Rise",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "Nothing Is Impossible",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "Trofle Pro Exy Rise",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "Flogan Skittles from 3rd",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "Bogroll Skittles",
+        "Tier": 8,
+        "Points": 4200
+    },
+    {
+        "Trick Name": "Pirate Psycho",
+        "Tier": 8,
+        "Points": 4200
+    },
+    {
+        "Trick Name": "Pirate Exy Rise",
+        "Tier": 8,
+        "Points": 4400
+    },
+    {
+        "Trick Name": "Trofle Hard Exy Rise",
+        "Tier": 8,
+        "Points": 4400
+    },
+    {
+        "Trick Name": "Xyth Rise",
+        "Tier": 8,
+        "Points": 4800
+    },
+    {
+        "Trick Name": "Pirate Pro Exy Rise",
+        "Tier": 8,
+        "Points": 4650
+    },
+    {
+        "Trick Name": "Spawn Hop",
+        "Tier": 1,
+        "Points": 10
+    }
+]

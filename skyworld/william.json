@@ -1,0 +1,37 @@
+[
+    {
+        "Trick Name": "Distant Skies",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Where Skies Never Reach",
+        "Tier": 7,
+        "Points": 3800
+    },
+    {
+        "Trick Name": "Daymare Walk",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Cauliflower Gap",
+        "Tier": 6,
+        "Points": 1800
+    },
+    {
+        "Trick Name": "Clock Hop",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "Around the Clock",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Take Your Time",
+        "Tier": 7,
+        "Points": 3200
+    }
+]

@@ -1,0 +1,682 @@
+[
+    {
+        "Trick Name": "Furby Exy Rise from 4th",
+        "Tier": 7,
+        "Points": 3700
+    },
+    {
+        "Trick Name": "Furby Pro Exy Rise from 4th",
+        "Tier": 7,
+        "Points": 3800
+    },
+    {
+        "Trick Name": "Furby Hard Exy Rise from 4th",
+        "Tier": 7,
+        "Points": 3900
+    },
+    {
+        "Trick Name": "Furby Skittles from 4th",
+        "Tier": 7,
+        "Points": 3600
+    },
+    {
+        "Trick Name": "Furby Psycho from 4th",
+        "Tier": 7,
+        "Points": 3500
+    },
+    {
+        "Trick Name": "Dog Skittles",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Dog Exy Rise",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Dog Pro Exy Rise",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Dog Hard Exy Rise",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "V Awpx2 from spawn",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Deagle to awpx2 from spawn",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "Triple Main to sign from strafe",
+        "Tier": 7,
+        "Points": 3333
+    },
+    {
+        "Trick Name": "Triple Pro Main to sign from strafe",
+        "Tier": 7,
+        "Points": 3666
+    },
+    {
+        "Trick Name": "Dog Twist Hard Exy Rise",
+        "Tier": 4,
+        "Points": 555
+    },
+    {
+        "Trick Name": "Dog Twist Pro Exy Rise",
+        "Tier": 4,
+        "Points": 555
+    },
+    {
+        "Trick Name": "Dog Twist Skittles",
+        "Tier": 7,
+        "Points": 3333
+    },
+    {
+        "Trick Name": "Awp to deagle from strafe",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Triple Owned Sonic T1000 from strafe",
+        "Tier": 6,
+        "Points": 2222
+    },
+    {
+        "Trick Name": "Hard Dart from spawn",
+        "Tier": 7,
+        "Points": 2666
+    },
+    {
+        "Trick Name": "Hard Dart Chrome from spawn",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Hard Dart Skittles",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Hard Pyramid Wrap",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "V Owned Sonic Jihad from spawn",
+        "Tier": 6,
+        "Points": 2222
+    },
+    {
+        "Trick Name": "Double Matta from spawn",
+        "Tier": 7,
+        "Points": 3500
+    },
+    {
+        "Trick Name": "Dog Sign Rise",
+        "Tier": 7,
+        "Points": 3500
+    },
+    {
+        "Trick Name": "Dog Twist Sign Rise",
+        "Tier": 7,
+        "Points": 3555
+    },
+    {
+        "Trick Name": "Owned Sonic Jihad V from spawn",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Buubl's Skittles",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Nothing Is Impossible Around Back",
+        "Tier": 8,
+        "Points": 4111
+    },
+    {
+        "Trick Name": "Nothing Is Impossible over spawn wall",
+        "Tier": 8,
+        "Points": 4144
+    },
+    {
+        "Trick Name": "Crossover Nothing Is Impossible over spawn wall",
+        "Tier": 8,
+        "Points": 4244
+    },
+    {
+        "Trick Name": "Easy Psycho from spawn",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "Awpx3",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Awpx4",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Awpx5",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Double Furby Psycho",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Double Furby Exy Rise",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Double Furby Pro Exy Rise",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Double Furby Skittles",
+        "Tier": 7,
+        "Points": 3333
+    },
+    {
+        "Trick Name": "Divide Psycho from 3rd",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Divide Exy Rise from 3rd",
+        "Tier": 5,
+        "Points": 1600
+    },
+    {
+        "Trick Name": "Divide Pro Exy Rise from 3rd",
+        "Tier": 5,
+        "Points": 1700
+    },
+    {
+        "Trick Name": "Divide Hard Exy Rise from 3rd",
+        "Tier": 6,
+        "Points": 1800
+    },
+    {
+        "Trick Name": "Divide Skittles from 3rd",
+        "Tier": 7,
+        "Points": 3500
+    },
+    {
+        "Trick Name": "Double Furby Hard Exy Rise",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Mike's Owned Sonic Jihad from spawn",
+        "Tier": 7,
+        "Points": 3333
+    },
+    {
+        "Trick Name": "Triple Furby Rise",
+        "Tier": 6,
+        "Points": 2222
+    },
+    {
+        "Trick Name": "Triple Furby Psycho",
+        "Tier": 7,
+        "Points": 3555
+    },
+    {
+        "Trick Name": "Triple Furby Exy Rise",
+        "Tier": 7,
+        "Points": 3666
+    },
+    {
+        "Trick Name": "Triple Furby Pro Exy Rise",
+        "Tier": 7,
+        "Points": 3777
+    },
+    {
+        "Trick Name": "Triple Furby Hard Exy Rise",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "Double Skittles",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Double Pro Skittles",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Triple Pro Skittles",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Triple Skittles",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Hard Dart Flogan Exy Rise",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Hard Dart Flogan Pro Exy Rise",
+        "Tier": 6,
+        "Points": 2222
+    },
+    {
+        "Trick Name": "Hard Dart Flogan Hard Exy Rise",
+        "Tier": 6,
+        "Points": 2444
+    },
+    {
+        "Trick Name": "Hard Dart Bogroll Exy Rise",
+        "Tier": 7,
+        "Points": 3222
+    },
+    {
+        "Trick Name": "Hard Dart Bogroll Pro Exy Rise",
+        "Tier": 7,
+        "Points": 3333
+    },
+    {
+        "Trick Name": "Hard Dart Bogroll Hard Exy Rise",
+        "Tier": 7,
+        "Points": 3777
+    },
+    {
+        "Trick Name": "Easy Flogan Rise from spawn",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "Hard Cracka Sign Rise",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "Flogan Divide Rise from 3rd",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Flogan Divide Psycho from 3rd",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Flogan Divide Exy Rise from 3rd",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Flogan Divide Hard Exy Rise from 3rd",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Flogan Divide Pro Exy Rise from 3rd",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Flogan Divide Skittles from 3rd",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "Hardest Waave Walk",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Crossover Waave Is Impossible over spawn wall",
+        "Tier": 8,
+        "Points": 4750
+    },
+    {
+        "Trick Name": "Hardest Egyptian Waave Walk over spawn wall",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Hardest Egyptian Waave Walk Around Back",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Crossover Hardest Egyptian Waave Walk over spawn wall",
+        "Tier": 6,
+        "Points": 2200
+    },
+    {
+        "Trick Name": "Hardest Egyptian Waave Walk Around Back to opposite Spawn Water",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Flogan Divide Sign Rise",
+        "Tier": 7,
+        "Points": 2700
+    },
+    {
+        "Trick Name": "Flogan Sign Rise from 3rd",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "Authentic's Pool Wrap",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "Double Pharm Hop",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Triple Snowman Gap",
+        "Tier": 5,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Dart Divide Psycho",
+        "Tier": 5,
+        "Points": 1400
+    },
+    {
+        "Trick Name": "Dart Divide Exy Rise",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Dart Divide Pro Exy Rise",
+        "Tier": 5,
+        "Points": 1700
+    },
+    {
+        "Trick Name": "Dart Divide Hard Exy Rise",
+        "Tier": 6,
+        "Points": 1900
+    },
+    {
+        "Trick Name": "Triple Matta from strafe",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Mushroom Tip",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Mushroom Chrome",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Mushroom Pool Wrap",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Mushroom Step-Up",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Mushroom Awpx2",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Mushroom Easy Rise",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Mushroom Easy Psycho",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Mushroom Easy Exy Rise",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Mushroom Easy Flogan Rise",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Mushroom Easy Flogan Psycho",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Mushroom Easy Bogroll Rise",
+        "Tier": 7,
+        "Points": 2750
+    },
+    {
+        "Trick Name": "Mushroom Easy Bogroll Psycho",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Mushroom Easy Orange Rise",
+        "Tier": 7,
+        "Points": 3500
+    },
+    {
+        "Trick Name": "Mushroom Heaven",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Mulped Goes To Ikea",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Nightmare Walk",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "Awpx2 from spawn",
+        "Tier": 7,
+        "Points": 3500
+    },
+    {
+        "Trick Name": "V Egyptian V Waave Walk",
+        "Tier": 7,
+        "Points": 3500
+    },
+    {
+        "Trick Name": "Half Egyptian Waave Walk",
+        "Tier": 7,
+        "Points": 3500
+    },
+    {
+        "Trick Name": "Hard Legacy Rise",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Hard Legacy Exy Rise",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "Hard Legacy Hard Exy Rise",
+        "Tier": 8,
+        "Points": 4200
+    },
+    {
+        "Trick Name": "Hard Legacy Pro Exy Rise",
+        "Tier": 8,
+        "Points": 4100
+    },
+    {
+        "Trick Name": "Hard Legacy Psycho",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Pro Half Egyptian Waave Walk",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "Pro Pirate Step-Up",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Awpx2 Skittles",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Awpx3 Skittles",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "McRyan Stepup",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "McRyan Stepup Remix",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Awpx5 through deagle Remix",
+        "Tier": 7,
+        "Points": 3500
+    },
+    {
+        "Trick Name": "Quintuple Main to sign from strafe",
+        "Tier": 8,
+        "Points": 4200
+    },
+    {
+        "Trick Name": "Cracka Sign Rise",
+        "Tier": 7,
+        "Points": 3500
+    },
+    {
+        "Trick Name": "Matthew Skittles",
+        "Tier": 7,
+        "Points": 3500
+    },
+    {
+        "Trick Name": "Schwedentrunk",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Hard Matthew Exy Rise",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Hard Matthew Pro Exy Rise",
+        "Tier": 5,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "Hard Matthew Hard Exy Rise",
+        "Tier": 5,
+        "Points": 1400
+    },
+    {
+        "Trick Name": "Flogan Double Divide Exy Rise",
+        "Tier": 6,
+        "Points": 1950
+    },
+    {
+        "Trick Name": "Flogan Double Divide Pro Exy Rise",
+        "Tier": 6,
+        "Points": 2050
+    },
+    {
+        "Trick Name": "Flogan Double Divide Hard Exy Rise",
+        "Tier": 6,
+        "Points": 2150
+    },
+    {
+        "Trick Name": "Double Divide Exy Rise",
+        "Tier": 5,
+        "Points": 1050
+    },
+    {
+        "Trick Name": "Double Divide Psycho",
+        "Tier": 5,
+        "Points": 1050
+    },
+    {
+        "Trick Name": "Double Divide Pro Exy Rise",
+        "Tier": 5,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Double Divide Hard Exy Rise",
+        "Tier": 5,
+        "Points": 1150
+    },
+    {
+        "Trick Name": "Awpx3 from strafe",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Double Divide Skittles",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Flogan Triple Divide Rise",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Flogan Owned Sonic Skittles",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Bogroll Owned Sonic Skittles",
+        "Tier": 7,
+        "Points": 3500
+    },
+    {
+        "Trick Name": "Mike's Nothing is Impossible",
+        "Tier": 8,
+        "Points": 4000
+    }
+]
