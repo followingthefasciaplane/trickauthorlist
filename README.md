@@ -1,2 +1,2 @@
 # Trick Authors
-Trick.surf tricks by Author (as of 3/21/2024)
+https://trick.surf/ tricks indexed by Author (as of 3/21/2024)
