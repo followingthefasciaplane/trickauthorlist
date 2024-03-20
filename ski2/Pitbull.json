@@ -1,0 +1,52 @@
+[
+    {
+        "Trick Name": "Airplane",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Blue Partyhat",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Dream Killer",
+        "Tier": 6,
+        "Points": 1150
+    },
+    {
+        "Trick Name": "Mini Flight",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Nice Plane",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Pitbull's Euphoria",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Pitbull's Hurricane",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Pitbull's Rise",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Sunset",
+        "Tier": 7,
+        "Points": 1285
+    },
+    {
+        "Trick Name": "What A Day",
+        "Tier": 5,
+        "Points": 800
+    }
+]

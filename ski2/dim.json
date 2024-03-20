@@ -1,0 +1,47 @@
+[
+    {
+        "Trick Name": "Climbing",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Deviation to Sign",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Easy God Rise",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Funky Spawn Return",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Funky Spawn Return to Rail",
+        "Tier": 6,
+        "Points": 1050
+    },
+    {
+        "Trick Name": "Scar Tissue",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Spaghetti and Meatball",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "White Rose Remix",
+        "Tier": 7,
+        "Points": 1285
+    },
+    {
+        "Trick Name": "Wingin' It",
+        "Tier": 4,
+        "Points": 650
+    }
+]

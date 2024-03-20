@@ -1,0 +1,47 @@
+[
+    {
+        "Trick Name": "90210",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Anime Gap v2",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Hard Merastorm",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Hard Wrath",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Merastorm",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Mini Anime Gap",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Patrick Star",
+        "Tier": 4,
+        "Points": 775
+    },
+    {
+        "Trick Name": "Sunrise",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Wrath",
+        "Tier": 2,
+        "Points": 150
+    }
+]

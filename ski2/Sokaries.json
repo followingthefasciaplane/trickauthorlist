@@ -1,0 +1,37 @@
+[
+    {
+        "Trick Name": "Boarding Exam",
+        "Tier": 8,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "Cant Spawn Return",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Elevator headache",
+        "Tier": 4,
+        "Points": 725
+    },
+    {
+        "Trick Name": "I Hate Turning Left",
+        "Tier": 7,
+        "Points": 1295
+    },
+    {
+        "Trick Name": "Reach",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Sock",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Wrap Tuna",
+        "Tier": 6,
+        "Points": 1000
+    }
+]

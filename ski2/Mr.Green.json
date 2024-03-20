@@ -1,0 +1,17 @@
+[
+    {
+        "Trick Name": "Green light",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Green's Walk",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Hard Green's Walk",
+        "Tier": 6,
+        "Points": 1000
+    }
+]

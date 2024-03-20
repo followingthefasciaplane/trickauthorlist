@@ -1,0 +1,32 @@
+[
+    {
+        "Trick Name": "Hard Motorsport",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Hard Supersede",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Just the Tip",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Pro Nocturne",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Pro Wickstead",
+        "Tier": 7,
+        "Points": 1290
+    },
+    {
+        "Trick Name": "Supersede",
+        "Tier": 5,
+        "Points": 950
+    }
+]
