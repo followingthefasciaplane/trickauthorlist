@@ -1,0 +1,37 @@
+[
+    {
+        "Trick Name": "Cool Wrap",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "Double Cool Wrap",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Logo Wrap",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Ring Gap",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Ryan's Rise",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "The O",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "The O!",
+        "Tier": 5,
+        "Points": 900
+    }
+]

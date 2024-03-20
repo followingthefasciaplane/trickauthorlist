@@ -1,0 +1,32 @@
+[
+    {
+        "Trick Name": "Aerias",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Blueprint",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Flick 'n' Pray",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Grey Jns Tour",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Slurp",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Terminal Velocity",
+        "Tier": 4,
+        "Points": 600
+    }
+]

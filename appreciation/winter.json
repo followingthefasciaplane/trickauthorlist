@@ -1,0 +1,47 @@
+[
+    {
+        "Trick Name": "Alma",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Annual Wealth Exchange",
+        "Tier": 7,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Bonhomme de Neige",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Eclipse",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Hard Eclipse",
+        "Tier": 7,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Hurts",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "The Summer",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Untitled",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Wintor",
+        "Tier": 7,
+        "Points": 1275
+    }
+]

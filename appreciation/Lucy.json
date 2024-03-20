@@ -1,0 +1,957 @@
+[
+    {
+        "Trick Name": "20/20",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "4-Wheel Drive",
+        "Tier": 1,
+        "Points": 10
+    },
+    {
+        "Trick Name": "AA Battery",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "AAA Battery",
+        "Tier": 5,
+        "Points": 975
+    },
+    {
+        "Trick Name": "Almost There",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Another Main Rise",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Anti Logo Slider",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Are We There Yet?",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Baby Snake",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Backstab",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Backyard",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Bald",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Balu's Niche",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Balu's Tunnel Return",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Beam Charge",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Benevolence",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "Big Bird",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Big Pink Battery",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Blinded By The Lights",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Block Transfer",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Blood",
+        "Tier": 7,
+        "Points": 1275
+    },
+    {
+        "Trick Name": "Blue Liquid",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Blue Motion",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Blue Strafe",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Boosting Bonanza",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Borboletas",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Bottom Channel Return",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Broken Vessel",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Bruising roee",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Bumper",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Bunker",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Can We Go To McDonalds?",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Can you make it?",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Center Wing Rise",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Centering",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Channel Blue",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Channeling",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Chase The Devil",
+        "Tier": 7,
+        "Points": 1275
+    },
+    {
+        "Trick Name": "Checkered Strafe",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Checkered Transfer",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Cherish",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Chrysalis Suspirii",
+        "Tier": 7,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Clover Jump",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Comfort Zone",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Concrete Evidence",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Concrete Whisker",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Conversation",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Cornered",
+        "Tier": 5,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Crim",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Crow",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Cute Blush",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Cyanic",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Daydream",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Dichotomy",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Don't Know",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Eastern Snake",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Easy Logo Wrap",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Escape",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Eventually",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Femboy Friday",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Figure Eight",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Fix",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Fixed The Carpal Tunnel Syndrome",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Forget",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Frog",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Glimpse",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Glimpse Of Us",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Glitter",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Good Morning",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Greenpath",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Grip It",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Guillotine",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Hate",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Headache",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Heat",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Hillside",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Hilltop",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Hollow",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Hollow Knight",
+        "Tier": 7,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Hollywood Smile",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Hopping Plant",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "I Lied",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Imprint",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Instant Regret",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Konichiwa",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Kudasai",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Lesson 1: Boarding",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Lesson 2: Rampstrafing",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Lesson 3: Nojumping Slides",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Lesson 4: Headchecks",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Level 5 Access",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Little Bird",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Logo Slider",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Lucy's Spawn Return",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Lucy's Stroll",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Machining Logos",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Main Transfer",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Mapping",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Massive Ego",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Migraine",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Mizu",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Moment",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Monday Slide",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Murder",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Mutant Spider",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Narrow Pathway",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Nie Ohne Seife Waschen",
+        "Tier": 1,
+        "Points": 10
+    },
+    {
+        "Trick Name": "Not So Simple Teleport Rise",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "One By One",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Opposite Rise",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Orange Block Return",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Overshooting",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Path to High Hrothgar",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Pearl",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Pink Battery",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Pink Pyramid Return",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Pinky Promise",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Polyphemus",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Poolio",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Purple Fast Charge",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Pyramis",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Reach The Sky",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Recharge",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Red Bolt",
+        "Tier": 1,
+        "Points": 95
+    },
+    {
+        "Trick Name": "Red Rocket",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Red Spiral",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Red Strafe",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Redshift",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Reflux",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Rising Grey",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Roll The Credits?",
+        "Tier": 2,
+        "Points": 120
+    },
+    {
+        "Trick Name": "Sayt's Formality",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Scepter",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Side By Side",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Sign Return Journey",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Simple Enough",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Simple Teleport Rise",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Skulltula",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Skyfall",
+        "Tier": 1,
+        "Points": 90
+    },
+    {
+        "Trick Name": "Skyscraper",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Slide Up",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Sliding Bonanza",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Smol",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Smol Strafe",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Spine Splash",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Spine Top",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Spine2Spine2",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "Spines",
+        "Tier": 1,
+        "Points": 10
+    },
+    {
+        "Trick Name": "Spiral",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Spirit",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Sploosh",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Stalling",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Star Cut",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Star Tunnels",
+        "Tier": 1,
+        "Points": 10
+    },
+    {
+        "Trick Name": "Stella",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Strafe Course",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Sunrise In Japan",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Sunset In Japan",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Teleport Rise",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Teleporting Afternoon",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Teleporting Turnaround",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Thankful Machining",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Thanks Frag",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "The Inner Eye",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "The Only Strafe I'll Add",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Themeparc",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Thigh High",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Thin Ice",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Third Time's A Charm",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Torrent Of Oblivion",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Tricky Machinery",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Uhhh, Wasn't Me",
+        "Tier": 5,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Up A Floor",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Venting",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Wait I Forgot Something",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Weeeeeeee",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Weird Rise",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Western Rise",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "what we did in the desert",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Where's The Surf?",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Whisker",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "White Battery",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "White Dove",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "White Hops",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Whitening",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Wing Slide",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Wingless",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Womp",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Wonky Slide Up",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "YAWT",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Yellow Fire",
+        "Tier": 3,
+        "Points": 350
+    }
+]

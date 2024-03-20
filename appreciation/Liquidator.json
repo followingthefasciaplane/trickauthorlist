@@ -1,0 +1,482 @@
+[
+    {
+        "Trick Name": "A Walk Downtown",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Acidity",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Afterparty",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Allstar",
+        "Tier": 6,
+        "Points": 1150
+    },
+    {
+        "Trick Name": "Andromeda",
+        "Tier": 6,
+        "Points": 1150
+    },
+    {
+        "Trick Name": "Anti-Corkscrew",
+        "Tier": 6,
+        "Points": 1175
+    },
+    {
+        "Trick Name": "Bad Dream",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Basicity",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Battery Leakage",
+        "Tier": 7,
+        "Points": 1235
+    },
+    {
+        "Trick Name": "bfur",
+        "Tier": 1,
+        "Points": 1
+    },
+    {
+        "Trick Name": "Blazing Fast",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Caterpillar",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Checkmate",
+        "Tier": 6,
+        "Points": 1150
+    },
+    {
+        "Trick Name": "Coil Wire",
+        "Tier": 7,
+        "Points": 1290
+    },
+    {
+        "Trick Name": "Corkscrew",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Crazy Diamond",
+        "Tier": 4,
+        "Points": 660
+    },
+    {
+        "Trick Name": "Critical Cashflow Crisis",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Default Gateway",
+        "Tier": 3,
+        "Points": 392
+    },
+    {
+        "Trick Name": "Diloco",
+        "Tier": 6,
+        "Points": 1050
+    },
+    {
+        "Trick Name": "Discharge Memorial",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Distinct",
+        "Tier": 6,
+        "Points": 1075
+    },
+    {
+        "Trick Name": "DoriKen",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Dropdown",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Elf on the Shelf",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Eternal Currency Cascade",
+        "Tier": 7,
+        "Points": 1260
+    },
+    {
+        "Trick Name": "Evening Stroll",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Falconer",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Footprint",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Fried Toothpick",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Going on a Bhop Adventure",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Gravity Defying",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Half-Duplex",
+        "Tier": 6,
+        "Points": 1025
+    },
+    {
+        "Trick Name": "Hard Pyramid Scheming",
+        "Tier": 7,
+        "Points": 1230
+    },
+    {
+        "Trick Name": "Hawaii",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Helligh",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Hellow",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Hug Me",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Infinite Income Influx",
+        "Tier": 7,
+        "Points": 1240
+    },
+    {
+        "Trick Name": "King Of The Windows",
+        "Tier": 8,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "Life Savings",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Limitless Fortune Flow",
+        "Tier": 7,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Liq Certified",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Liq's Rise",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Liquidity Crisis",
+        "Tier": 6,
+        "Points": 1150
+    },
+    {
+        "Trick Name": "localhost",
+        "Tier": 2,
+        "Points": 127
+    },
+    {
+        "Trick Name": "Lord Of The Windows",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Lost It",
+        "Tier": 5,
+        "Points": 975
+    },
+    {
+        "Trick Name": "Mediator",
+        "Tier": 6,
+        "Points": 1025
+    },
+    {
+        "Trick Name": "Melancholy Of An Angel",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Metasomatism",
+        "Tier": 8,
+        "Points": 1325
+    },
+    {
+        "Trick Name": "Midnight Stroll in Detroit",
+        "Tier": 8,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "New Age",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Orbiting Onion",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Owl Editor",
+        "Tier": 6,
+        "Points": 1125
+    },
+    {
+        "Trick Name": "Paralyzed Pudding",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Pills Visiting Egypt",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Pills Visiting Giza",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Poleposition",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Purple Sun",
+        "Tier": 6,
+        "Points": 1110
+    },
+    {
+        "Trick Name": "Pyramid Scheming",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Roadworks",
+        "Tier": 6,
+        "Points": 1150
+    },
+    {
+        "Trick Name": "SBF Return",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Sentinel",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Skiing Along",
+        "Tier": 7,
+        "Points": 1235
+    },
+    {
+        "Trick Name": "Skill Ceiling",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Slackline",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Smooth Pill",
+        "Tier": 5,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Solitude",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Staircase To Heaven",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Stairing Away",
+        "Tier": 5,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Stalemate",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Steezing",
+        "Tier": 7,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Storm by the Sea",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Struck Gold",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Sublimen't",
+        "Tier": 6,
+        "Points": 1150
+    },
+    {
+        "Trick Name": "The Gap",
+        "Tier": 7,
+        "Points": 1240
+    },
+    {
+        "Trick Name": "The Line",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Through The Roof",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Towering",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Trapezoiding",
+        "Tier": 5,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Triangulum",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Turmoil",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Tweakin",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Unending Prosperity Plunge",
+        "Tier": 6,
+        "Points": 1050
+    },
+    {
+        "Trick Name": "Vesuvio",
+        "Tier": 6,
+        "Points": 1150
+    },
+    {
+        "Trick Name": "Vesuvio Eruzione",
+        "Tier": 7,
+        "Points": 1280
+    },
+    {
+        "Trick Name": "Vicious Spiral",
+        "Tier": 8,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "Windows 8",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Windows CE",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Windows ME",
+        "Tier": 6,
+        "Points": 1175
+    },
+    {
+        "Trick Name": "Windows Of The Lord",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Windows Vista",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Windows XP",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Winkelhaak",
+        "Tier": 5,
+        "Points": 960
+    },
+    {
+        "Trick Name": "Winter's Outsourced Trick",
+        "Tier": 5,
+        "Points": 925
+    },
+    {
+        "Trick Name": "Zarala",
+        "Tier": 6,
+        "Points": 1050
+    }
+]

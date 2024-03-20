@@ -1,0 +1,42 @@
+[
+    {
+        "Trick Name": "Apprentice Artist",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Arrow",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "How Can A Snowman Slide So Fast?",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Rookie Artist",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Skilled Artist",
+        "Tier": 4,
+        "Points": 525
+    },
+    {
+        "Trick Name": "Snowman Headcheck",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "W Star",
+        "Tier": 1,
+        "Points": 10
+    },
+    {
+        "Trick Name": "Yggdrasil",
+        "Tier": 4,
+        "Points": 500
+    }
+]

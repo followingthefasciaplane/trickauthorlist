@@ -1,0 +1,32 @@
+[
+    {
+        "Trick Name": "Fire Escape",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Goro Gap",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "LarzZz's Adventure",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "LarzZz's Battery",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "LarzZz's Ringrise",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "LarzZz's Step-Up",
+        "Tier": 3,
+        "Points": 200
+    }
+]

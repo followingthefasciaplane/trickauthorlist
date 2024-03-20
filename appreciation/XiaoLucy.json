@@ -1,0 +1,42 @@
+[
+    {
+        "Trick Name": "Bouncing Corner",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Catching The Bus",
+        "Tier": 1,
+        "Points": 20
+    },
+    {
+        "Trick Name": "Jumpah",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Please Sign Here",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Reflection",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Slanting",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Slidin'",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Spine2Spine",
+        "Tier": 1,
+        "Points": 25
+    }
+]

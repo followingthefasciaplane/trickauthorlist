@@ -1,0 +1,32 @@
+[
+    {
+        "Trick Name": "Double Nickels on the Dime",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Fisher",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Misfit",
+        "Tier": 3,
+        "Points": 495
+    },
+    {
+        "Trick Name": "Nickels",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Sewer Rise",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Tech Squire",
+        "Tier": 2,
+        "Points": 175
+    }
+]

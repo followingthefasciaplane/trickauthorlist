@@ -1,0 +1,52 @@
+[
+    {
+        "Trick Name": "Cluster",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Clusterfuck",
+        "Tier": 4,
+        "Points": 775
+    },
+    {
+        "Trick Name": "Firework",
+        "Tier": 4,
+        "Points": 625
+    },
+    {
+        "Trick Name": "Grey Slide",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Hard Lap",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Lap",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Ring Wrap",
+        "Tier": 1,
+        "Points": 10
+    },
+    {
+        "Trick Name": "Snake Way",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Twelve Speed",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Yoshi's Simple Walk",
+        "Tier": 3,
+        "Points": 250
+    }
+]
