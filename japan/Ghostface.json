@@ -1,0 +1,637 @@
+[
+    {
+        "Trick Name": "AAAAA Remix",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "AAAAAA Remix",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "AAAAAAA Remix",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "AAAAAAA+++",
+        "Tier": 6,
+        "Points": 2222
+    },
+    {
+        "Trick Name": "AAAAAAAA+",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "AAAAAAAA++",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Advanced Core 2.0",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Advanced Core from spawn",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Advanced Elite Generic Morning Trick",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Advanced Flick Core",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Advanced Generic Morning Trick v3",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Advanced Masterful Generic Morning Trick",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Advanced Roof Core",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Anti-Frenchies Dubble Trubble",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Anti-Malaysian",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Anti-Malaysian Dubble Trubble",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "BBBBB",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Be Home By 2",
+        "Tier": 7,
+        "Points": 2800
+    },
+    {
+        "Trick Name": "Be Home By 2:15",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Be Home By 4",
+        "Tier": 5,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Be Home By 4:15",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Be Home By 4:30",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Blue Rose",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Coreception 2.0",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Coreception Remix",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Coreception v2",
+        "Tier": 6,
+        "Points": 1750
+    },
+    {
+        "Trick Name": "Coremageddon",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "D+",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "D++",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "D+++",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "DDDDD",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "DDDDDD",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "DDDDDDD",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "DDDDDDDD",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "DDDDDDDDD",
+        "Tier": 7,
+        "Points": 3333
+    },
+    {
+        "Trick Name": "DDDDDDDDDD",
+        "Tier": 8,
+        "Points": 3500
+    },
+    {
+        "Trick Name": "DDDDDDDDDDD",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "Double AAAA",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Double Hail Satan",
+        "Tier": 7,
+        "Points": 3333
+    },
+    {
+        "Trick Name": "Double Hard Satan Loop",
+        "Tier": 6,
+        "Points": 2222
+    },
+    {
+        "Trick Name": "Double Hard Skrise",
+        "Tier": 6,
+        "Points": 1750
+    },
+    {
+        "Trick Name": "Double Hard Skrise Remix",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Double Pill Magic",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Double Pro Core",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Double Sanya's Retreat",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Double Satan Loop",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Double Skrise Style",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Easy Coremageddon",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Easy Kap will fap from spawn",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Elite Cloudnior",
+        "Tier": 7,
+        "Points": 2750
+    },
+    {
+        "Trick Name": "Elite Generic Cancer Trick",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Elite Hard Generic Cancer Trick",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Elite Junz0r from spawn",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Elite Juzumba",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Elite Kiss From A Rose",
+        "Tier": 8,
+        "Points": 3500
+    },
+    {
+        "Trick Name": "Elite Razumba",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Elite Razumba from spawn",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Elite Roof Kap Goulding",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Elite Satan Loop",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Elite Vortex",
+        "Tier": 7,
+        "Points": 3333
+    },
+    {
+        "Trick Name": "Elite Yoza's Rise",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Extreme RND",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Flick Core 2.0",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Generic Cancer Trick v2",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Generic Morning Trick v3",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Grey Rose",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Hail Satan Go-Hard",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Hard Blue Rose",
+        "Tier": 5,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Hard Buubl's Rose",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Hard Coreception v2",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Hard Dizzy Rose",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Hard Double Generic Morning Trick",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Hard Generic Cancer Trick v2",
+        "Tier": 5,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "Hard Green Rose",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Hard Grey Rose",
+        "Tier": 5,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Hard Hail Sanity",
+        "Tier": 7,
+        "Points": 3333
+    },
+    {
+        "Trick Name": "Hard Headcheck To The Deck",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Hard Junz0r from spawn",
+        "Tier": 4,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Hard Kap Goulding",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Hard Kiss From A Rose",
+        "Tier": 5,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Hard Orange Rose",
+        "Tier": 5,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Hard Panda Gap",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Hard Pink Rose",
+        "Tier": 5,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Hard Roof Kap Goulding",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Hard Rose is Mindfuck",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Hard Vortex from spawn",
+        "Tier": 7,
+        "Points": 2750
+    },
+    {
+        "Trick Name": "Hard Yoza's Rise",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Harder Buubl's Rose",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Harder Juzumba",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Hardest Buubl's Rose",
+        "Tier": 5,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Headcheck To The Deck",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Jog With Me",
+        "Tier": 5,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Junz0r from spawn",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Kap Goulding from spawn",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Kap will fap from spawn",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Kiss From A Rose",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Masterful Generic Morning Trick",
+        "Tier": 6,
+        "Points": 2350
+    },
+    {
+        "Trick Name": "Orange Rose",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Panda Gap",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Pink Rose",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Pitbull's Dubble Trubble Adventure",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Portal Express",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Pro AAA Remix",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Pro Cloudnior",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Pro Coreception v2",
+        "Tier": 8,
+        "Points": 3500
+    },
+    {
+        "Trick Name": "Pro Double AAA",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Pro Double AAAA",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Pro J-Core",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Pro Kap Goulding",
+        "Tier": 4,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Pro Roof Core",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Raphful Claud",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Roof Coreception",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Roof Kap Goulding",
+        "Tier": 4,
+        "Points": 801
+    },
+    {
+        "Trick Name": "Skrise Dubble Trubble",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Skrise Remix Dubble Trubble",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Skrise Style Dubble Trubble",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Spooder's Vortex Climb",
+        "Tier": 7,
+        "Points": 2750
+    },
+    {
+        "Trick Name": "Stay Out Till 2",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Tiny Claud",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Trigger Nightmare",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Triple Hard Core",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Triple Hard Skrise Remix",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Triple Pro Core",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Uber Morninsanest",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Vortex from spawn",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Walk With Me",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Yoza's Rise",
+        "Tier": 5,
+        "Points": 1250
+    }
+]

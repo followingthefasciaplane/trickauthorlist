@@ -1,0 +1,82 @@
+[
+    {
+        "Trick Name": "10-14",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Airbus A320",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Dobble Fragged",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Double Fragged",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Dubble Fragged",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Duke Hop Remix",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Frag Hop",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Frag Hop Remix",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Fragged",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Hard Dobble Fragged",
+        "Tier": 6,
+        "Points": 1750
+    },
+    {
+        "Trick Name": "Hard Double Fragged",
+        "Tier": 6,
+        "Points": 1750
+    },
+    {
+        "Trick Name": "Hard Dubble Fragged",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Hard Trubble",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Head Check",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Pro Portal Junkie",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "TNT",
+        "Tier": 3,
+        "Points": 250
+    }
+]
