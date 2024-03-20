@@ -1,0 +1,22 @@
+[
+    {
+        "Trick Name": "chip shop",
+        "Tier": 5,
+        "Points": 825
+    },
+    {
+        "Trick Name": "fish & chip",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "mega bag of chips",
+        "Tier": 7,
+        "Points": 1240
+    },
+    {
+        "Trick Name": "small bag of chips",
+        "Tier": 3,
+        "Points": 350
+    }
+]

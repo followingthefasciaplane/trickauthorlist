@@ -1,0 +1,42 @@
+[
+    {
+        "Trick Name": "Cranut",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Floor Is Lava",
+        "Tier": 1,
+        "Points": 95
+    },
+    {
+        "Trick Name": "Floor Is Lava 2",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Floor Is Lava 3",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Floor Is Lava 4",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Floor Is Lava 5",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "On-Glizzy!",
+        "Tier": 5,
+        "Points": 850
+    },
+    {
+        "Trick Name": "On-Glizzy-Reloaded!",
+        "Tier": 6,
+        "Points": 1000
+    }
+]
