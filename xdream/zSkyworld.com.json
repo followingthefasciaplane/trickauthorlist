@@ -1,0 +1,4547 @@
+[
+    {
+        "Trick Name": "-",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "0tecH Hit-Point",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "0tecH's G1",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "0tecH's G3",
+        "Tier": 4,
+        "Points": 760
+    },
+    {
+        "Trick Name": "0tecH's G4",
+        "Tier": 6,
+        "Points": 2300
+    },
+    {
+        "Trick Name": "0tecH's G5000",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "0tecH's G5000 Remix",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "0tecH's Telehop",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "0tecHnology",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "0tecHnology 2.0",
+        "Tier": 5,
+        "Points": 1337
+    },
+    {
+        "Trick Name": "0tecHnology 3.0",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "1-2-3-4",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "1-2-3-4-5",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "1-2-3-4-5-6",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "1-2-3-4-5-6-7",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "1-2-3-4-5-6-7-8",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "444",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "444 behind main",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "4444",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "4444 behind main",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "44444",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "44444 behind main",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "444444",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "444444 behind main",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "4444444",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "636",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "666",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "6666",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "66666",
+        "Tier": 4,
+        "Points": 666
+    },
+    {
+        "Trick Name": "8^)",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "A Tornado Attack!",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "A Trick Nifps Can't Do",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "A Trick Trexx Can't Do",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "a Trick you can't do because you are bad",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Abartox Tobe",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Acid's Roundabout",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Advanced 0tecH's G1",
+        "Tier": 4,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Advanced Strafe 3",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Alb For Beginnerz",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Alb jumps into your House",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Alb's Hard Strafe",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Alb's Strafe",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Alb's Super Hard Strafe",
+        "Tier": 4,
+        "Points": 675
+    },
+    {
+        "Trick Name": "Alb's Trauma",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Albtraum's G3",
+        "Tier": 4,
+        "Points": 535
+    },
+    {
+        "Trick Name": "Albtraum's G4",
+        "Tier": 4,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Albtraum's G5",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Albtraum's lol",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Anonymous",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "ATS 2.0 Remix",
+        "Tier": 4,
+        "Points": 567
+    },
+    {
+        "Trick Name": "ATS Retreat Remix",
+        "Tier": 4,
+        "Points": 505
+    },
+    {
+        "Trick Name": "ATSception",
+        "Tier": 6,
+        "Points": 2400
+    },
+    {
+        "Trick Name": "Authentic's G3000",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Authentic's G4000",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Authentic's G5000",
+        "Tier": 4,
+        "Points": 666
+    },
+    {
+        "Trick Name": "Authentics G1",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Avenge's G3000",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Aybres G3",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Aybres G4",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Aybres G5",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Bad Trip",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Bambii's Trip",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Be Right Back",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Be Right Back 2.0",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Be Right Back 3.0",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Behind Shotgun to Spawn Wrap to Main Wrap",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Big Lei",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Bigger Lei",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Biggest Lei",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Black G3",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Black G4",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Black G5",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Blue Sky's Pro Pop-Fly",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Blue Sky's Pro Pop-Fly from ST",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Boosterjuice",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Box G3",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Box hop",
+        "Tier": 1,
+        "Points": 45
+    },
+    {
+        "Trick Name": "Box Strafe",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Box walk",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Box wrap",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Breaker",
+        "Tier": 4,
+        "Points": 897
+    },
+    {
+        "Trick Name": "BReeZ's Bloody Twat",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "BReeZ's Menstruation Cramp",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "BReeZ's Secret",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "BReeZ's Tampon",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "BReeZy BaBy",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Broken-Spin",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Broken-Spin to Jailpillar",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Broken-Spin to Sky",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Broken-Spin to Skypillar",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Broken-Spin to Skyplate",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Buslenkrad",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Butterfly",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "C-5",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Camo Gap",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Carpy G3",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Carpy G4",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Carpy G5",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Celine's Warmup",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Cgap",
+        "Tier": 3,
+        "Points": 435
+    },
+    {
+        "Trick Name": "Chaos",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Chrome's G3000",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Chrome's G4000",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Chrome's G5000",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Chronic G3000",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Chronic G4000",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Chronic G5000",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Chupacabra",
+        "Tier": 2,
+        "Points": 115
+    },
+    {
+        "Trick Name": "Chupacabra to Bridge",
+        "Tier": 2,
+        "Points": 130
+    },
+    {
+        "Trick Name": "Chupacabra to ST",
+        "Tier": 2,
+        "Points": 145
+    },
+    {
+        "Trick Name": "Cock Hop",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Core",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Core G1",
+        "Tier": 3,
+        "Points": 401
+    },
+    {
+        "Trick Name": "Core G3",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Core G5 Remix",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Core Hop",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Core Rise",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Core Slants",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Core Spin",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Core Spin to Jail Pillar",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Core Spin to Sky",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Crazy Hop",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Crazy Hops to jail ceiling",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Crazy Hops to Jail Pillar",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Crazy Hops to Sky",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Crazy Hops to Skyplate",
+        "Tier": 4,
+        "Points": 701
+    },
+    {
+        "Trick Name": "Crazy Hops to Supertop",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Crazy Hops to top",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Crazy Twist",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "darude sandstorm",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Darxor's G3000",
+        "Tier": 4,
+        "Points": 675
+    },
+    {
+        "Trick Name": "Desire's G3000",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Desire's G4000",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Desire's G5000",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Desire's Remix",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Dillionare G4",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Dillionare G5",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Disco Pogo",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Don't Panik",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Double ATS Retreat",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Double ATS Retreat 2.0",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Double Bug",
+        "Tier": 3,
+        "Points": 315
+    },
+    {
+        "Trick Name": "Double Core",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Double Core Slants",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Double Core Spin",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Double Erb-G4000",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Double Erb-G5000",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Double G3000 From Telehop",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Double G4000 From Telehop",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Double G5000 From Telehop",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Double Kap's G3000",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Double Kap's G4000",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Double Kap's G5000",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Double Lewed g3000",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Double Lewed g4000",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Double Lewed g5000",
+        "Tier": 6,
+        "Points": 1750
+    },
+    {
+        "Trick Name": "Double Main Wrap",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Double NS-Hop",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Double NS-Hop to jail ceiling",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Double NS-Hop to jail pillar",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Double Rainbow",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Double Secret G3000",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Double Secret G4000",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Double Secret G5000",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Double Toxicity",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Double Waterbug",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Down, down, down",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Easy Double Bug",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Easy Double Rainbow",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Easy Waterbug",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Easy Waterbug to ST",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Echse's Gay3k",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Echse's Hard Retreat",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Echse's nearly Gay3k",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Echse's Retreat",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Echse's Ultra Gayhop",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Egyptian Warmed Up",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Erb-G3000",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Erb-G4000",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Erb-G5000",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Even hop",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Evening's Nightmare",
+        "Tier": 5,
+        "Points": 1234
+    },
+    {
+        "Trick Name": "Evening's Secret Waterbug",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "eXiiLe is a Dick",
+        "Tier": 4,
+        "Points": 669
+    },
+    {
+        "Trick Name": "eXiiLe's Flow G3000",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "eXiiLe's Flow G4000",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "eXiiLe's Flow G5000",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "eXiiLe's Martian",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "eXiiLe's Retreat",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Extreme Double ATS Retreat",
+        "Tier": 6,
+        "Points": 2400
+    },
+    {
+        "Trick Name": "Extreme Nade Hop",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Extremely Bad Trip",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Exy Fuck Off!",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Exy's Retarded G3000",
+        "Tier": 3,
+        "Points": 420
+    },
+    {
+        "Trick Name": "Exy's Retarded G4000",
+        "Tier": 4,
+        "Points": 520
+    },
+    {
+        "Trick Name": "Exy's Retarded G5000",
+        "Tier": 4,
+        "Points": 620
+    },
+    {
+        "Trick Name": "eXy-up-Broskie",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Facepalm",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "Fgap",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Figure 8",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Flash G3000",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Flash G4000",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Flash G5000",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Flash Rise",
+        "Tier": 4,
+        "Points": 789
+    },
+    {
+        "Trick Name": "Flawless Obliterates Olsson",
+        "Tier": 6,
+        "Points": 1800
+    },
+    {
+        "Trick Name": "Flawless Telehop",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Flawless' G3",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Flawless' G4",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Flawless' G5",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Flawless.",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Flex'ocalypse",
+        "Tier": 3,
+        "Points": 345
+    },
+    {
+        "Trick Name": "FlexXx's Bugs Bunny",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "FlexXx's g3000",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "FlexXx's g4000",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "FlexXx's g5000",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "FlexXx's Pro G1",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "FlexXx's Slant",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "FlexXx's Waterfuck",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "FlexXx's Wrap",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Fly Like An Eagle",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Free-Fall",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Frozen g3000",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Frozen g4000",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Frozen g5000",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Frozen Wrap",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Frozen's Bananasplit",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Frozen's Bug-Hop",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "FruiT#NiNja's Pharn",
+        "Tier": 1,
+        "Points": 30
+    },
+    {
+        "Trick Name": "Future Jr.",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Future's Rise",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Future's Walk",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Future's Warmup",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "G-Spin",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "G-Spin from Spawn",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "G-Spin from Telehop",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "G-Spin make me Hard",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "G-Spin to Bridge Hop",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "G-Spin to G3000",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "G-Spin to G4000",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "G-Spin to G5000",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "G-Spin to Jail Pillar",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "G-Spin to Lewed 69",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "G-Spin to Lewed 69 Under Shotty",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "G-Spin to Lewed 79",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "G-Spin to Lewed 79 Under Shotty",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "G-Spin to Lewed 89",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "G-Spin to Lewed 89 Under Shotty",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "G-Spin to Lewed G3000",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "G-Spin to Lewed G3000 under shotty",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "G-Spin to Lewed G4000",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "G-Spin to Lewed G4000 under shotty",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "G-Spin to Lewed G5000",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "G-Spin to Lewed G5000 under shotty",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "G-Spin to Pro Bridge Hop",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "G-Spin to Sky",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "G-Spin to Sky Pillar",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "G-Spin to Skyplate",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "G-Star",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "G-Star to Sky",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "G10",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "G11",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "G11 Raped",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "G11 Raped to Jail Pillar",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "G11 Raped to Supertop",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "G12000",
+        "Tier": 6,
+        "Points": 2100
+    },
+    {
+        "Trick Name": "G12321",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "G3 From Spawn",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "G3 Fsp",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "G3 under stairs",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "G3000",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "G3000 From Supertop Water",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "G3000 From Telehop",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "G3000 to G4000",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "G3000 to Sky",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "G3000 to Skyplate",
+        "Tier": 6,
+        "Points": 1750
+    },
+    {
+        "Trick Name": "G3000 x2",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "G3000 x3",
+        "Tier": 4,
+        "Points": 999
+    },
+    {
+        "Trick Name": "G3K Outta Box",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "G4 From Spawn",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "G4 Fsp",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "G4 under stairs",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "G4000",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "G4000 From Supertop Water",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "G4000 From Telehop",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "G4K Outta Box",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "G5 From Spawn",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "G5 Fsp",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "G5 under stairs",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "G5000",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "G5000 From Supertop Water",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "G5000 From Telehop",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "G5K Outta Box",
+        "Tier": 6,
+        "Points": 1600
+    },
+    {
+        "Trick Name": "G5K Raped",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "G5K Raped to Jail Pillar",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "G5K Raped to Sky",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "G5K Raped to Supertop",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "G6",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "G7",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "G8",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "G9",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Gay 3000",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "GayPride",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Gold is High",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Green Is A Mad Scientist",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Green Is A Madman",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Green's G5",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Green's Jack in the Box",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Grenade Jump",
+        "Tier": 1,
+        "Points": 85
+    },
+    {
+        "Trick Name": "habreszona",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Hammer Spin",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Hammer Strafe",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Hard ATS Retreat",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Hard ATS Retreat 2.0",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Hard ATS Rise",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Hard ATSception",
+        "Tier": 7,
+        "Points": 2600
+    },
+    {
+        "Trick Name": "Hard Boosterjuice",
+        "Tier": 3,
+        "Points": 301
+    },
+    {
+        "Trick Name": "Hard BReeZy BaBy",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Hard Double ATS Retreat",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Hard Double ATS Retreat 2.0",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Hard Double Bug",
+        "Tier": 3,
+        "Points": 415
+    },
+    {
+        "Trick Name": "Hard Double Rainbow",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Hard Double Toxicity",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Hard G-Star",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Hard Green's G5",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Hard Hollywood",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Hard Kruel Hop",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Hard Nifps' Walk",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Hard Nip Jr.",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Hard Rise",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Hard Sarkastik's g5",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Hard Snowhop",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Hard Sonic Gap",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Hard ST G3",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Hard Telewrap",
+        "Tier": 4,
+        "Points": 701
+    },
+    {
+        "Trick Name": "Hard Toxicity",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Hard Triple ATS Retreat",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Hardcore",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Hardcore G1",
+        "Tier": 4,
+        "Points": 501
+    },
+    {
+        "Trick Name": "Hardcore Rise",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Heaven",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "Heaven And Hell",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "hEEERO's G5",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Hell",
+        "Tier": 8,
+        "Points": 5000
+    },
+    {
+        "Trick Name": "Hidden",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Holly's Quickie",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Holy's G3",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Home Sweet Home",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "horse.exe",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "how does this work mom help",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "I Smell a BReeZ",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Ibtu Slants",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "iEx's G3",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "iEx's G4",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "iEx's G5",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "iEx's sEx",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "IMPOS BReeZy BaBy",
+        "Tier": 7,
+        "Points": 2800
+    },
+    {
+        "Trick Name": "Impossible Double ATS Retreat",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "In5anity",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Ins4nity",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Insane G3",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Insane G4",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Insane G5",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Insane Gap",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Insane Shamster's Secret",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Insane Survival",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Insane Telehop",
+        "Tier": 5,
+        "Points": 1400
+    },
+    {
+        "Trick Name": "Insane, Go home",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Insanity",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "J-Up",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Jailtelehop to sky",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Jailtelehop to skyplate",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "JaKe Go Home",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Jake's Easy Spawn Wrap",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Javel?",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Jazzatron",
+        "Tier": 4,
+        "Points": 666
+    },
+    {
+        "Trick Name": "Jinx Gap",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Joker's g3000",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Joker's g4000",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Joker's g5000",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Joker's Spin",
+        "Tier": 3,
+        "Points": 345
+    },
+    {
+        "Trick Name": "Jonz Roll",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "JORDAN^^'s G3",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "JORDAN^^'s G4",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "JORDAN^^'s G5",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Junior's G3K Outta Box",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Junior's G4K Outta Box",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Junior's G5K Outta Box",
+        "Tier": 6,
+        "Points": 1700
+    },
+    {
+        "Trick Name": "Junkyy's g3",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Junkyy's g4",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Junkyy's g5",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "k-k-k-k-kR0NE'B0 BREAKER",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Kap's g3000",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Kap's g4000",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Kap's g5000",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Karmaristik",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "kira is a sanic lover",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "kira's g4",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "kira's g5",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "kira's slant",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "kira's wrap",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "kiraise",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Knazz Didn't Know What to Name This",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Konfix g3000",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Konfix g4000",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Konfix g5000",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "kR0NE's g3",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "kR0NE's g4",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "kR0NE's G5",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "kR0NE's G5 Hard",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "kR0NE's Gap",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "kR0NE's Telehop",
+        "Tier": 3,
+        "Points": 357
+    },
+    {
+        "Trick Name": "kR0NE's Telehop v2.0",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "kR0NE's Trick",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "kR0NE's vERITAS",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Kratos G3",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Kratos G4",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Kratos G5",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Kruel Hop",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "Kruel Rise",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Krystal Spin",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "l33tago g10",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "l33tago g11",
+        "Tier": 4,
+        "Points": 525
+    },
+    {
+        "Trick Name": "l33tago g3",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "l33tago g4",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "l33tago g5",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "l33tago g6",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "l33tago g7",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "l33tago g8",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "l33tago g9",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "l33tago spin",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Lars Palmas",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "LarzZz's Sky High",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Leer's Revenge",
+        "Tier": 4,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Leetago Gap",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Lett Slants",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Lewed 69",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Lewed 69 from Telehop",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Lewed 69 Under shotguns",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Lewed 69 under shotguns From Spawn",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Lewed 69 without shotgun",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Lewed 690",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Lewed 690 Under Shotguns",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Lewed 6900",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Lewed 6900 under shotty",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Lewed 79",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Lewed 79 from Telehop",
+        "Tier": 3,
+        "Points": 432
+    },
+    {
+        "Trick Name": "Lewed 79 Under shotguns",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Lewed 79 under shotguns From Spawn",
+        "Tier": 4,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Lewed 79 without shotgun",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Lewed 790",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Lewed 790 Under Shotguns",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Lewed 7900",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Lewed 7900 under shotty",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "Lewed 89",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Lewed 89 from Telehop",
+        "Tier": 4,
+        "Points": 890
+    },
+    {
+        "Trick Name": "lewed 89 under shotguns",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Lewed 89 under shotguns From Spawn",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Lewed 89 without shotgun",
+        "Tier": 4,
+        "Points": 890
+    },
+    {
+        "Trick Name": "Lewed 890",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Lewed 890 Under Shotguns",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Lewed 8900",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Lewed 8900 under shotty",
+        "Tier": 4,
+        "Points": 675
+    },
+    {
+        "Trick Name": "Lewed G10",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Lewed G10 under shotty",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Lewed G11",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Lewed G11 under shotty",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Lewed G3000",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Lewed G3000 under shotgun",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Lewed G3000 under shotgun From Spawn",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Lewed G4000",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Lewed G4000 under shotgun",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Lewed G4000 under shotgun From Spawn",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Lewed G5000",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Lewed G5000 under shotgun",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Lewed G5000 under shotgun From Spawn",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Lewed G6",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Lewed G6 Under Shotguns",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Lewed G7",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Lewed G7 Under Shotguns",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Lewed G8",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Lewed G8 Under Shotguns",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Lewed G9",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Lewed G9 under shotty",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Lewed l33tago g10",
+        "Tier": 4,
+        "Points": 525
+    },
+    {
+        "Trick Name": "Lewed l33tago g10 Under Shotty",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Lewed l33tago g11",
+        "Tier": 4,
+        "Points": 675
+    },
+    {
+        "Trick Name": "Lewed l33tago g11 Under Shotty",
+        "Tier": 4,
+        "Points": 675
+    },
+    {
+        "Trick Name": "Lewed l33tago g3",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Lewed l33tago g3 under shotty",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Lewed l33tago g4",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Lewed l33tago g4 under shotty",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Lewed l33tago g5",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Lewed l33tago g5 under shotty",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Lewed L33tago G6",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Lewed L33tago G6 Under Shotty",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Lewed L33tago G7",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Lewed L33tago G7 Under Shotty",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Lewed L33tago G8",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Lewed L33tago G8 Under Shotty",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Lewed l33tago g9",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Lewed l33tago g9 Under Shotty",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "LoneWolves' EvilSlide",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "LoneWolves' Hard Rise",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "LoneWolves' Lift-Off",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "LoneWolves' Pro Rise",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "LoneWolves' Revenge",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "LoneWolves' Rise",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Lou's Gap",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Luckzor",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Luckzor from sky",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Mad ?",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Maddafakka",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "main wrap",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "Matti Goes To Germany",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Matti Goes To Hollywood",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Matti Is The Girl",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Matti's Dirty Secret",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Maustrafe",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "McG3000",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "McG4000",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "McG5000",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "mera 1up",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "mera goes to hollywood",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Mera Hop",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "mera is a memelord",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "mera is a sonic lover",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Mera Jr.",
+        "Tier": 4,
+        "Points": 789
+    },
+    {
+        "Trick Name": "mera michael cabrera",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "merise",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Milkyway's Box",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Mkayy",
+        "Tier": 1,
+        "Points": 10
+    },
+    {
+        "Trick Name": "Morning Gap",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Morning Star",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Multivitaminjuice",
+        "Tier": 5,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "nick'elodeon",
+        "Tier": 3,
+        "Points": 456
+    },
+    {
+        "Trick Name": "nick'elodeon to jailpillar",
+        "Tier": 4,
+        "Points": 567
+    },
+    {
+        "Trick Name": "nick'elodeon to sky",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "nifps hopslant",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "nifps is a smart man",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "nifps' g1",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "nifps' return",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Nifps' Rise",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Nifps' Strafe",
+        "Tier": 2,
+        "Points": 170
+    },
+    {
+        "Trick Name": "nifps'g3",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "nifps'g4",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "nifps'g5",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Nip Jr.",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Nip's Rise",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "No Ceilings",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Noed's Hop",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "NoPain Gap",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "NoPain's WierdO Wrap",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "NostalG4ia",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "NostalG5ia",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Nostalgia",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Nostalgia's Memory",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Nostalgia's Rise",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Nostalgia.exe",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "NS-Hop",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "NS-Hop to jail ceiling",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "NS-Hop to jail pillar",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Ol' Son of a Bitch",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Orangensaft's g3000",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Orangensaft's g4000",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Orangensaft's g5000",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "OUH MAMA G4",
+        "Tier": 6,
+        "Points": 2400
+    },
+    {
+        "Trick Name": "Ouma's G5",
+        "Tier": 4,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Ownd's Slant",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Ownd's Spin",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Owned g10",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Owned g11",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Owned g9",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Owned Gap",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Oza is Cute",
+        "Tier": 3,
+        "Points": 321
+    },
+    {
+        "Trick Name": "Oza's G5",
+        "Tier": 4,
+        "Points": 675
+    },
+    {
+        "Trick Name": "Oza's Ridiculousity",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Ozabulous",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Ozamazing",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Ozarvelous",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Ozatacular",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Ozatastic",
+        "Tier": 4,
+        "Points": 505
+    },
+    {
+        "Trick Name": "Pat's g0",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Pat's G1",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "PeeaK's G5",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Phail Hop",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Pharn",
+        "Tier": 1,
+        "Points": 35
+    },
+    {
+        "Trick Name": "Phaxy Der Boss",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Phy3eR's G3",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Phy3eR's G4",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Phy3eR's G5",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Ping Pong",
+        "Tier": 3,
+        "Points": 370
+    },
+    {
+        "Trick Name": "pocket strafe",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Pool Telehop",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Pool Telehop to G3",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Pool Telehop to G4",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Pool Telehop to G5",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Pool Wrap",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Poop",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Pop-Fly",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Pop-Fly from ST",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Pop-Fly to Skyplate",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Pride is gay",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Pro ATS Retreat",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Pro ATS Retreat 2.0",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Pro ATSception",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "Pro Double ATS Retreat",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Pro Double ATS Retreat 2.0",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Pro G-Star",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Pro Mad ?",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Pro Main wrap",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Pro Rise",
+        "Tier": 5,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Pro Schmitz Gap",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Pro Shit Gap",
+        "Tier": 4,
+        "Points": 685
+    },
+    {
+        "Trick Name": "pro spawn drop",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Pro Triple ATS Retreat",
+        "Tier": 7,
+        "Points": 2900
+    },
+    {
+        "Trick Name": "Purge G3",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Purge G4",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Purge G5",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Pushup",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Pussy Switch Gap",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Pwned g10",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Pwned g11",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Pwned g9",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "qmix hard rise",
+        "Tier": 6,
+        "Points": 2200
+    },
+    {
+        "Trick Name": "qmix slants",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Qmix's BJ",
+        "Tier": 5,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "qmix's rise",
+        "Tier": 4,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Quadruple ATS Retreat",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "Quadruple Erb-G5000",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "RaiBok is cute",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "RaiBok's G3",
+        "Tier": 5,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "RaiSlants",
+        "Tier": 6,
+        "Points": 2222
+    },
+    {
+        "Trick Name": "Ram's Drop",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "RapeSlants",
+        "Tier": 7,
+        "Points": 3333
+    },
+    {
+        "Trick Name": "Rassex G3",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Rassex G4",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Rassex G5",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Raupyyy's Baum!",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Raupyyy's G3",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Raupyyy's G4",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Raupyyy's G5",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Reach Around",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Reach Around Higher",
+        "Tier": 5,
+        "Points": 1050
+    },
+    {
+        "Trick Name": "Reach Around Upwards",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "Reaper's Asylum",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Reaper's Drowning Pools",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Reaper's G3",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Reaper's G4",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Reaper's G5",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "reapZi rapes Eve to jail ceiling",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "reapZi rapes Eve to jailpillartop",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "reapZi rapes Eve to sky",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Reborn's G3000",
+        "Tier": 3,
+        "Points": 333
+    },
+    {
+        "Trick Name": "Reborn's G4000",
+        "Tier": 3,
+        "Points": 444
+    },
+    {
+        "Trick Name": "Reborn's G5000",
+        "Tier": 4,
+        "Points": 555
+    },
+    {
+        "Trick Name": "Rebound",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Rennauto Gap",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Rexxar g3",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Rexxar g4",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Rexxar g5",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "RIP Darxor",
+        "Tier": 4,
+        "Points": 851
+    },
+    {
+        "Trick Name": "Rise",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Rise G3000",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Rise G4000",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Rise G5000",
+        "Tier": 6,
+        "Points": 2250
+    },
+    {
+        "Trick Name": "Rmx G3",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Rmx G4",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Rmx G5",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Rnb'Z G5",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Rox's Rise",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "S-G3000",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "S-G4000",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "S-G5000",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "S-J-T-J-T-J-T-J-T-ST",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "S-J-T-J-T-J-T-ST",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "S-J-T-J-T-ST",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "S-J-T-ST",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "S-Strafe",
+        "Tier": 4,
+        "Points": 666
+    },
+    {
+        "Trick Name": "S-T to spawn ramp to skyplate",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Safty's G3",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Safty's G4",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Safty's G5",
+        "Tier": 6,
+        "Points": 2200
+    },
+    {
+        "Trick Name": "Saftyyy's Baum!",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "saga's G5",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Saosin's G3",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Sarah's Loverboy",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Sarkastik's Flash G4000",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Sarkastik's g5",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Sarkastik's g5k outta box",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "sC0R3",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Schmitz Gap",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Schmitz Spin",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Schwuchtel",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Secret G3000",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Secret G4000",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Secret G5000",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Shamster's Secret",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Shit Gap",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Sign G3",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Sign G4",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Silent G3000",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Silent G4000",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Silent G5000",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Silent's Gay Bar",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Silent's JackHouse",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Silent's JackHouse Pro",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Silent's JackHouse UBERPRO",
+        "Tier": 4,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Skinkerytter",
+        "Tier": 5,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "sky to box",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Skyline 1337 Wrap",
+        "Tier": 4,
+        "Points": 733
+    },
+    {
+        "Trick Name": "Skyline's Chaos",
+        "Tier": 1,
+        "Points": 20
+    },
+    {
+        "Trick Name": "Skyline's G3",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Skyline's G4",
+        "Tier": 4,
+        "Points": 555
+    },
+    {
+        "Trick Name": "Skyline's G5",
+        "Tier": 4,
+        "Points": 666
+    },
+    {
+        "Trick Name": "Skyline's Gap",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Skyline's Hit-point",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Skyline's Legendary G5000",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Skyline's Wrap",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Slant Rise",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Slants, Slants everywhere !!",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Slanty BReeZ",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Slide",
+        "Tier": 4,
+        "Points": 666
+    },
+    {
+        "Trick Name": "Sn",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Sneaky Climb",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Snowhop",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Something",
+        "Tier": 2,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Something to jail pillar",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Something to sky",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "Sonic G3000",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Sonic G4000",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Sonic G5000",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Sonic Gap",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Sonic's JailSpin",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Sonic's Pro JailSpin",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "spawn drop",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Spawn Hop",
+        "Tier": 1,
+        "Points": 20
+    },
+    {
+        "Trick Name": "spawn ramp to supertop without teleport",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "spawn slide",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Spin to Win 'till you die !",
+        "Tier": 4,
+        "Points": 555
+    },
+    {
+        "Trick Name": "splash box",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Spoiled Apple",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Spoiled Beer",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Spoiled Milk",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "SStyle G3",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "SStyle G4",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "SStyle G5",
+        "Tier": 6,
+        "Points": 2200
+    },
+    {
+        "Trick Name": "ST-Spin to G3000",
+        "Tier": 2,
+        "Points": 140
+    },
+    {
+        "Trick Name": "ST-Spin to G4000",
+        "Tier": 2,
+        "Points": 215
+    },
+    {
+        "Trick Name": "ST-Spin to G5000",
+        "Tier": 3,
+        "Points": 315
+    },
+    {
+        "Trick Name": "ST-Spin to l33tago g3",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "ST-Spin to l33tago g4",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "ST-Spin to l33tago g5",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "ST-Spin to Lewed 69",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "ST-Spin to Lewed 69 under shotty",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "ST-Spin to Lewed 79",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "ST-Spin to Lewed 79 under shotty",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "ST-Spin to Lewed 89",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "ST-Spin to Lewed 89 under shotty",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "ST-Spin to Lewed G3000",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "ST-Spin to Lewed G3000 under shotty",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "ST-Spin to Lewed G4000",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "ST-Spin to Lewed G4000 under shotty",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "ST-Spin to Lewed G5000",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "ST-Spin to Lewed G5000 under shotty",
+        "Tier": 4,
+        "Points": 575
+    },
+    {
+        "Trick Name": "ST-Spin to Lewed L33tago 69",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "ST-Spin to Lewed L33tago 69 Under Shotty",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "ST-Spin to Lewed L33tago 79",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "ST-Spin to Lewed L33tago 79 Under Shotty",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "ST-Spin to Lewed L33tago 89",
+        "Tier": 4,
+        "Points": 850
+    },
+    {
+        "Trick Name": "ST-Spin to Lewed L33tago 89 Under Shotty",
+        "Tier": 4,
+        "Points": 850
+    },
+    {
+        "Trick Name": "St-Spin to Lewed L33tago G3",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "St-Spin to Lewed L33tago G3 Under Shotty",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "St-Spin to Lewed L33tago G4",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "St-Spin to Lewed L33tago G4 Under Shotty",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "St-Spin to Lewed L33tago G5",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "St-Spin to Lewed L33tago G5 Under Shotty",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "stay caaaalm",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Strafe",
+        "Tier": 1,
+        "Points": 10
+    },
+    {
+        "Trick Name": "Strafe 2",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Strafe 244",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Strafe 3",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Strafe 4",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Strafe 5",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Strafe 6",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Strafe 7",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Strafe 8",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Strafe 88",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Strafe 9",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Strafe to wall",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Suey",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Sunrise G3",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Sunrise G4",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Sunrise G5",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Sunrise Gap",
+        "Tier": 3,
+        "Points": 470
+    },
+    {
+        "Trick Name": "Super Hard Hollywood",
+        "Tier": 6,
+        "Points": 2300
+    },
+    {
+        "Trick Name": "Super Hard Rise",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Super Mad ?",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "sut min hammer",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Switch Gap",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "T-Bone Top",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Taane's Drop",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Telehop to Ass End",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Telehop to Skyplate",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Telewrap",
+        "Tier": 4,
+        "Points": 501
+    },
+    {
+        "Trick Name": "The ATS G4",
+        "Tier": 7,
+        "Points": 3000
+    },
+    {
+        "Trick Name": "The ATS Rebound",
+        "Tier": 8,
+        "Points": 3500
+    },
+    {
+        "Trick Name": "The ATS Retreat",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "The ATS Retreat 2.0",
+        "Tier": 3,
+        "Points": 456
+    },
+    {
+        "Trick Name": "The ATS Rise",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "The Pwned",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "The Pwned to jailpillar top",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "The Xerian Wrap",
+        "Tier": 3,
+        "Points": 444
+    },
+    {
+        "Trick Name": "Tocke's G3",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Tocke's G4",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Tocke's G5",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Too easy",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "top hop",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Top Tele Hop",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "top-spin",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "top-wrap",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Tornado Main Wrap",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Toxic Gap",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Toxic Wrap",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Toxicity Remix",
+        "Tier": 7,
+        "Points": 2600
+    },
+    {
+        "Trick Name": "Toxicity to Main",
+        "Tier": 6,
+        "Points": 1700
+    },
+    {
+        "Trick Name": "Trace's High Dinosaur",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Trance's Gap",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Trance's Pop Fly",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Trance's Wrap",
+        "Tier": 4,
+        "Points": 713
+    },
+    {
+        "Trick Name": "Trancexual",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Trick",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Trick to G4",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Triple ATS Retreat",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Triple Erb-G5000",
+        "Tier": 5,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "Triple G3000",
+        "Tier": 4,
+        "Points": 777
+    },
+    {
+        "Trick Name": "Triple G4000",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Triple G5000",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Triple Main Wrap",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Triple Toxicity",
+        "Tier": 8,
+        "Points": 4000
+    },
+    {
+        "Trick Name": "Triple Waterfall Wrap",
+        "Tier": 4,
+        "Points": 777
+    },
+    {
+        "Trick Name": "Trofle Gap",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Trofle's Hax",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Trofle's Rise",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Trooper's Wrap",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "tunnel jump",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Ultimate Double ATS Retreat",
+        "Tier": 8,
+        "Points": 4250
+    },
+    {
+        "Trick Name": "Ultimate Survival",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Ultra ATS Rebound",
+        "Tier": 8,
+        "Points": 4500
+    },
+    {
+        "Trick Name": "Ultra G3",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Ultra Hard Rise",
+        "Tier": 6,
+        "Points": 2200
+    },
+    {
+        "Trick Name": "Untouchable",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Up, Up, Up",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "V Toxic Wrap",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "V-Sign to ST",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "V-Sign to Waterfall Pocket",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "V2ner",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "V3ner",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Vak's G0",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Vak's G1",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Vak's G2",
+        "Tier": 6,
+        "Points": 1800
+    },
+    {
+        "Trick Name": "vodka.exe",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Voner",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Voner Rise",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Vortex",
+        "Tier": 4,
+        "Points": 654
+    },
+    {
+        "Trick Name": "Waave Hole",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Warmup",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "watamalan g5",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Waterbug",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Waterbug to ST",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Waterbug to st-water",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Waterbug to st-water to g3000",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Waterbug to st-water to g4000",
+        "Tier": 4,
+        "Points": 555
+    },
+    {
+        "Trick Name": "Waterbug to st-water to g5000",
+        "Tier": 4,
+        "Points": 666
+    },
+    {
+        "Trick Name": "Waterfallspin to G3000",
+        "Tier": 2,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Waterfallspin to G4000",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Waterfallspin to G5000",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Weapon Wrap",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Wille's G5",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Wille's Rise",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Wille's Telefuck",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Wille's Telehop",
+        "Tier": 5,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Wrecker",
+        "Tier": 4,
+        "Points": 560
+    },
+    {
+        "Trick Name": "X3",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "X3n0n's g3000",
+        "Tier": 3,
+        "Points": 375
+    },
+    {
+        "Trick Name": "X3n0n's g4000",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "X3n0n's g5000",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "X3n0n's spin",
+        "Tier": 3,
+        "Points": 345
+    },
+    {
+        "Trick Name": "X3n0n's Twist",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "X4",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "X5",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "xEN g3000",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "xEN g4000",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "xEN g5000",
+        "Tier": 4,
+        "Points": 900
+    },
+    {
+        "Trick Name": "XGap",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "xinny is cute",
+        "Tier": 4,
+        "Points": 642
+    },
+    {
+        "Trick Name": "xinny's autism",
+        "Tier": 4,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Yakuzaa gap",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Yakuzaa gap v2",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Yates G-Spin",
+        "Tier": 2,
+        "Points": 115
+    },
+    {
+        "Trick Name": "Zato Jr.",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "zEEEbrah's Pro Main Wrap",
+        "Tier": 4,
+        "Points": 666
+    },
+    {
+        "Trick Name": "zEEEbrah's Rise",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "zEEEbrah's Slant",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "zEEEbrah's trick or treat",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "zEEEbrah's trick or treat to jail pilar",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "zEEEbrah's trick or treat to sky",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Zinger Slants",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "zYNK can be mad",
+        "Tier": 5,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "~ :D",
+        "Tier": 3,
+        "Points": 450
+    }
+]
