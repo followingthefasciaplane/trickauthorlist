@@ -1,0 +1,27 @@
+[
+    {
+        "Trick Name": "Snowman Walk",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Snowman Walk To Seoul",
+        "Tier": 6,
+        "Points": 1050
+    },
+    {
+        "Trick Name": "Snowman Walk To Tokyo",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "YSY",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "YSY A",
+        "Tier": 5,
+        "Points": 800
+    }
+]

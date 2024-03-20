@@ -1,0 +1,77 @@
+[
+    {
+        "Trick Name": "cute trick",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Expert",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Grome",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Instinct",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Levan",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Masego",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Moonlight",
+        "Tier": 6,
+        "Points": 1224
+    },
+    {
+        "Trick Name": "Noob",
+        "Tier": 2,
+        "Points": 120
+    },
+    {
+        "Trick Name": "Noob King",
+        "Tier": 4,
+        "Points": 775
+    },
+    {
+        "Trick Name": "Pro",
+        "Tier": 8,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "Quieroz",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Rookie",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Sk8er Boi",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Starlight",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Uprising",
+        "Tier": 4,
+        "Points": 700
+    }
+]

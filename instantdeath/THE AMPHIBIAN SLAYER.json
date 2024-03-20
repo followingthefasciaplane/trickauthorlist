@@ -1,0 +1,42 @@
+[
+    {
+        "Trick Name": "Backyard",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Catwalk",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Climb The Horse!",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "I Luv Granis",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Into the Pool",
+        "Tier": 1,
+        "Points": 90
+    },
+    {
+        "Trick Name": "Jack Of All Trades",
+        "Tier": 8,
+        "Points": 1350
+    },
+    {
+        "Trick Name": "Looking for a Puta",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Oscar Awards",
+        "Tier": 7,
+        "Points": 1225
+    }
+]

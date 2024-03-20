@@ -1,0 +1,257 @@
+[
+    {
+        "Trick Name": "A Quick Stroll",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "Achiever",
+        "Tier": 2,
+        "Points": 180
+    },
+    {
+        "Trick Name": "Annoying",
+        "Tier": 2,
+        "Points": 165
+    },
+    {
+        "Trick Name": "Ascend",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Back slide",
+        "Tier": 1,
+        "Points": 70
+    },
+    {
+        "Trick Name": "Basic Logo Loop",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Cap Jump",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Cat Crossing",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Catwalk to the Rafters",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Coarse Sand",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Cube Rise",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Curvy Caps",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Curvy Copter",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Easy Curvy Caps",
+        "Tier": 1,
+        "Points": 30
+    },
+    {
+        "Trick Name": "Easy-U",
+        "Tier": 1,
+        "Points": 65
+    },
+    {
+        "Trick Name": "Executive Suite",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "F in the chat",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Fancy Logo Looping",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Hard Over and back",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Ledge Dweller",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Logo Loop to Fence",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Logo Looper",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Mini Mega Rise",
+        "Tier": 2,
+        "Points": 180
+    },
+    {
+        "Trick Name": "Mini Mega Rollin Wrap",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "More Annoying",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Over and back",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Overachiever",
+        "Tier": 3,
+        "Points": 380
+    },
+    {
+        "Trick Name": "Poorly Rotated Cap Rise",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Reverse Big Loop",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "S-Rise",
+        "Tier": 1,
+        "Points": 85
+    },
+    {
+        "Trick Name": "Shortcut Snipe",
+        "Tier": 2,
+        "Points": 190
+    },
+    {
+        "Trick Name": "Silly Hop",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Simple Cube Return",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Soft Sand",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "Stair Climb",
+        "Tier": 1,
+        "Points": 30
+    },
+    {
+        "Trick Name": "Style Points",
+        "Tier": 3,
+        "Points": 267
+    },
+    {
+        "Trick Name": "Stylish Headcheck",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Tape Flier",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Tape Pending",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "The S Times Two",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "To the Catwalk",
+        "Tier": 1,
+        "Points": 75
+    },
+    {
+        "Trick Name": "To the Other Catwalk",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Trash Panda",
+        "Tier": 1,
+        "Points": 90
+    },
+    {
+        "Trick Name": "Tunnel Rise",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "Twisty Tunnels",
+        "Tier": 2,
+        "Points": 110
+    },
+    {
+        "Trick Name": "Two Sided",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "U-Wrap",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Unbelievable",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Underachiever",
+        "Tier": 1,
+        "Points": 80
+    },
+    {
+        "Trick Name": "Useless",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Usurp",
+        "Tier": 1,
+        "Points": 75
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "Trick Name": "Cat Dive",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Secret Hop",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Secreter Hop",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Secretest Hop",
+        "Tier": 3,
+        "Points": 400
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "Trick Name": "Big Loop",
+        "Tier": 1,
+        "Points": 25
+    },
+    {
+        "Trick Name": "GetOnMyFence",
+        "Tier": 2,
+        "Points": 100
+    },
+    {
+        "Trick Name": "surf_instantdeath",
+        "Tier": 2,
+        "Points": 175
+    }
+]
