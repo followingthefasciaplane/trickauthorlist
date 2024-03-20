@@ -1,0 +1,52 @@
+[
+    {
+        "Trick Name": "Aeolian",
+        "Tier": 5,
+        "Points": 1750
+    },
+    {
+        "Trick Name": "Cogwheel",
+        "Tier": 5,
+        "Points": 1500
+    },
+    {
+        "Trick Name": "Double Aeolian",
+        "Tier": 6,
+        "Points": 2250
+    },
+    {
+        "Trick Name": "Hard Cogwheel",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Hard Cogwheel Remix",
+        "Tier": 5,
+        "Points": 1750
+    },
+    {
+        "Trick Name": "Hard Wheel of Lilies",
+        "Tier": 6,
+        "Points": 2000
+    },
+    {
+        "Trick Name": "Wheel of Checkered Lilies",
+        "Tier": 8,
+        "Points": 3500
+    },
+    {
+        "Trick Name": "Wheel of Lilies",
+        "Tier": 5,
+        "Points": 1750
+    },
+    {
+        "Trick Name": "Wheel of Red Lilies",
+        "Tier": 7,
+        "Points": 2500
+    },
+    {
+        "Trick Name": "Wheel of Roses",
+        "Tier": 7,
+        "Points": 2500
+    }
+]
