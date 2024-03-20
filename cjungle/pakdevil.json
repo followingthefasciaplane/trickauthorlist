@@ -1,0 +1,42 @@
+[
+    {
+        "Trick Name": "Devil Do Stage 1 Return",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Devil go Up",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Devil's Stage 1 Expert",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Devil's Stage 1 Master",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Devil's Stage 1 Pro",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Double Devil go Up",
+        "Tier": 6,
+        "Points": 1150
+    },
+    {
+        "Trick Name": "Double Hard Devil go Up",
+        "Tier": 7,
+        "Points": 1280
+    },
+    {
+        "Trick Name": "Hard Devil go Up",
+        "Tier": 7,
+        "Points": 1250
+    }
+]

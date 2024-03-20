@@ -1,0 +1,32 @@
+[
+    {
+        "Trick Name": "Eastern Blacksmith",
+        "Tier": 6,
+        "Points": 1025
+    },
+    {
+        "Trick Name": "Inside Job",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Lowerlands",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Morning Walk",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Nosedive",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Oolong",
+        "Tier": 7,
+        "Points": 1225
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Trick Name": "Bop",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "Down under",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Red Route",
+        "Tier": 5,
+        "Points": 850
+    },
+    {
+        "Trick Name": "RK's Journey",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Tucked Away",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Tunnel Vision",
+        "Tier": 3,
+        "Points": 450
+    }
+]

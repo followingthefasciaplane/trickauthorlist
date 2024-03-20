@@ -1,0 +1,722 @@
+[
+    {
+        "Trick Name": "ACrazyHarderTrick",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "ACrazyTrick",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Afterlife",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Allies",
+        "Tier": 6,
+        "Points": 1125
+    },
+    {
+        "Trick Name": "Amethyst",
+        "Tier": 4,
+        "Points": 769
+    },
+    {
+        "Trick Name": "Barney",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Beamer",
+        "Tier": 6,
+        "Points": 1150
+    },
+    {
+        "Trick Name": "Bhupper",
+        "Tier": 7,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Big Bird",
+        "Tier": 4,
+        "Points": 720
+    },
+    {
+        "Trick Name": "Bliss",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Blissful Ignorance",
+        "Tier": 8,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "Burrito",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Chantelle",
+        "Tier": 6,
+        "Points": 1180
+    },
+    {
+        "Trick Name": "Clusterphobic",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Cotton Candy",
+        "Tier": 5,
+        "Points": 970
+    },
+    {
+        "Trick Name": "Crazy Eights",
+        "Tier": 1,
+        "Points": 88
+    },
+    {
+        "Trick Name": "Doja Cat",
+        "Tier": 6,
+        "Points": 1050
+    },
+    {
+        "Trick Name": "Droptop",
+        "Tier": 7,
+        "Points": 1260
+    },
+    {
+        "Trick Name": "East Coast Hip Hop",
+        "Tier": 6,
+        "Points": 1050
+    },
+    {
+        "Trick Name": "Easy Bliss",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Ecstasy Training Grounds",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Edging",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Elation",
+        "Tier": 7,
+        "Points": 1240
+    },
+    {
+        "Trick Name": "Enchilada",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Enemies",
+        "Tier": 7,
+        "Points": 1240
+    },
+    {
+        "Trick Name": "Erode",
+        "Tier": 8,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "Euphoria",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Falconeye",
+        "Tier": 7,
+        "Points": 1240
+    },
+    {
+        "Trick Name": "Fly As Me",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Genesis Coupe",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Genesis G70",
+        "Tier": 7,
+        "Points": 1230
+    },
+    {
+        "Trick Name": "Genesis G80",
+        "Tier": 7,
+        "Points": 1260
+    },
+    {
+        "Trick Name": "Genesis G85",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Genesis GV60",
+        "Tier": 5,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Genesis GV70",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Genesis GV80",
+        "Tier": 7,
+        "Points": 1240
+    },
+    {
+        "Trick Name": "Genesis GV90",
+        "Tier": 7,
+        "Points": 1270
+    },
+    {
+        "Trick Name": "Going To The Park",
+        "Tier": 6,
+        "Points": 1020
+    },
+    {
+        "Trick Name": "Ground Slide Grandmaster",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Hard Glamorous",
+        "Tier": 5,
+        "Points": 925
+    },
+    {
+        "Trick Name": "Hard King's Return",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Hard King's Return v2",
+        "Tier": 5,
+        "Points": 999
+    },
+    {
+        "Trick Name": "Hard King's Wrap Return Remix",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Head Down",
+        "Tier": 4,
+        "Points": 625
+    },
+    {
+        "Trick Name": "Head Up In The Clouds",
+        "Tier": 8,
+        "Points": 1315
+    },
+    {
+        "Trick Name": "Hells Angel",
+        "Tier": 7,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Hey Nineteen",
+        "Tier": 5,
+        "Points": 775
+    },
+    {
+        "Trick Name": "High Blue Strafe",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Hobbit",
+        "Tier": 7,
+        "Points": 1265
+    },
+    {
+        "Trick Name": "Hollywood",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "I was forced to make more strafe tricks",
+        "Tier": 7,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Infiniti Q50",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Infiniti Q60",
+        "Tier": 5,
+        "Points": 825
+    },
+    {
+        "Trick Name": "Infiniti Q70",
+        "Tier": 6,
+        "Points": 1075
+    },
+    {
+        "Trick Name": "Infiniti Q80",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Infiniti QX50",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Infiniti QX60",
+        "Tier": 5,
+        "Points": 875
+    },
+    {
+        "Trick Name": "Infiniti QX70",
+        "Tier": 6,
+        "Points": 1075
+    },
+    {
+        "Trick Name": "Infinity G37X",
+        "Tier": 6,
+        "Points": 1175
+    },
+    {
+        "Trick Name": "Intermediate King's Plastic",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Jubilation",
+        "Tier": 7,
+        "Points": 1260
+    },
+    {
+        "Trick Name": "Kangaroo",
+        "Tier": 6,
+        "Points": 1111
+    },
+    {
+        "Trick Name": "King's Adventure",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "King's Gauntlet",
+        "Tier": 7,
+        "Points": 1255
+    },
+    {
+        "Trick Name": "King's Mania",
+        "Tier": 7,
+        "Points": 1285
+    },
+    {
+        "Trick Name": "King's Mania Training Grounds",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "King's Return v2",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "King's Strafe",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "King's Strafe God Mode",
+        "Tier": 8,
+        "Points": 1325
+    },
+    {
+        "Trick Name": "King's Throne Up in the Clouds",
+        "Tier": 8,
+        "Points": 1325
+    },
+    {
+        "Trick Name": "King's Warmup",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Krap",
+        "Tier": 5,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Lean",
+        "Tier": 2,
+        "Points": 175
+    },
+    {
+        "Trick Name": "Lettuce Return",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Lettuce Wrap",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Level 2",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Level 2 Pro",
+        "Tier": 6,
+        "Points": 1090
+    },
+    {
+        "Trick Name": "Level 3",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Low Kass Wrap King Nerdvana",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Low Kass Wrap King Nirvana",
+        "Tier": 6,
+        "Points": 1025
+    },
+    {
+        "Trick Name": "Maneuverability",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Marksman",
+        "Tier": 4,
+        "Points": 775
+    },
+    {
+        "Trick Name": "Maxvel King Trick lol",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Medium Strafe Training Grounds",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Muffin",
+        "Tier": 6,
+        "Points": 1050
+    },
+    {
+        "Trick Name": "My First Speed Check The Other Way!",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Nareky",
+        "Tier": 6,
+        "Points": 1050
+    },
+    {
+        "Trick Name": "Need Backup",
+        "Tier": 5,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Nerdvana",
+        "Tier": 7,
+        "Points": 1240
+    },
+    {
+        "Trick Name": "Nirvana",
+        "Tier": 6,
+        "Points": 1090
+    },
+    {
+        "Trick Name": "Orange Juice",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Oranges",
+        "Tier": 7,
+        "Points": 1255
+    },
+    {
+        "Trick Name": "Paduinfluxukingenza",
+        "Tier": 7,
+        "Points": 1233
+    },
+    {
+        "Trick Name": "Poetic Justice",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Potion",
+        "Tier": 4,
+        "Points": 666
+    },
+    {
+        "Trick Name": "Quesadilla",
+        "Tier": 5,
+        "Points": 975
+    },
+    {
+        "Trick Name": "Rail Me Harder",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "rawr",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Reservation",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Retention",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Rookie Bhopper",
+        "Tier": 3,
+        "Points": 275
+    },
+    {
+        "Trick Name": "Room Service",
+        "Tier": 5,
+        "Points": 980
+    },
+    {
+        "Trick Name": "Room Service For King",
+        "Tier": 7,
+        "Points": 1235
+    },
+    {
+        "Trick Name": "Running",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Science Experiment #10",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "See you on the other side",
+        "Tier": 6,
+        "Points": 1050
+    },
+    {
+        "Trick Name": "Seesaw",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Set Me Free",
+        "Tier": 4,
+        "Points": 775
+    },
+    {
+        "Trick Name": "Short Strafe Training Grounds",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Slant Tech",
+        "Tier": 4,
+        "Points": 625
+    },
+    {
+        "Trick Name": "Smooth Sailing",
+        "Tier": 5,
+        "Points": 975
+    },
+    {
+        "Trick Name": "Sorry",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Soundgarden",
+        "Tier": 6,
+        "Points": 1180
+    },
+    {
+        "Trick Name": "Stage 4 King",
+        "Tier": 4,
+        "Points": 625
+    },
+    {
+        "Trick Name": "Stage 4 King Direct",
+        "Tier": 5,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Stranger Things",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Stratified",
+        "Tier": 5,
+        "Points": 999
+    },
+    {
+        "Trick Name": "Strishka",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Taco",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Taco Strafes",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Taco with Leafy Greens",
+        "Tier": 7,
+        "Points": 1240
+    },
+    {
+        "Trick Name": "Temu Palm Trees",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "The Abyss",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "The Dissected Smillisca",
+        "Tier": 7,
+        "Points": 1285
+    },
+    {
+        "Trick Name": "The Holy Flamingo",
+        "Tier": 6,
+        "Points": 1040
+    },
+    {
+        "Trick Name": "The Smilisca",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "The Steve Up",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Tony Pickle",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Tony Pickle Pro Skater",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Transcendence",
+        "Tier": 8,
+        "Points": 1350
+    },
+    {
+        "Trick Name": "TRICKMAN",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "True Bliss",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "True Ecstasy",
+        "Tier": 8,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "True Elation",
+        "Tier": 7,
+        "Points": 1280
+    },
+    {
+        "Trick Name": "True Euphoria",
+        "Tier": 7,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Typical King Trick",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Typical King Trick v2",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Unit Emperor",
+        "Tier": 8,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "Versatility",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Weaving Grounds",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Weird and Awkward",
+        "Tier": 5,
+        "Points": 925
+    },
+    {
+        "Trick Name": "Whisky",
+        "Tier": 5,
+        "Points": 850
+    },
+    {
+        "Trick Name": "White Arrow",
+        "Tier": 4,
+        "Points": 780
+    },
+    {
+        "Trick Name": "Who's The One Ramp Champ?",
+        "Tier": 1,
+        "Points": 99
+    }
+]

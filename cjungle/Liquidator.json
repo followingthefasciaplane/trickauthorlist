@@ -1,0 +1,872 @@
+[
+    {
+        "Trick Name": "A Monarch's Walk",
+        "Tier": 6,
+        "Points": 1075
+    },
+    {
+        "Trick Name": "AA Battery",
+        "Tier": 6,
+        "Points": 1080
+    },
+    {
+        "Trick Name": "AAA Battery",
+        "Tier": 7,
+        "Points": 1265
+    },
+    {
+        "Trick Name": "Akali Remix",
+        "Tier": 8,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "Alkalescent",
+        "Tier": 7,
+        "Points": 1255
+    },
+    {
+        "Trick Name": "Alkaline",
+        "Tier": 6,
+        "Points": 1150
+    },
+    {
+        "Trick Name": "Anteater",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Around The Park",
+        "Tier": 6,
+        "Points": 1050
+    },
+    {
+        "Trick Name": "Arrakis",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Audiophile",
+        "Tier": 6,
+        "Points": 1175
+    },
+    {
+        "Trick Name": "Backalley",
+        "Tier": 6,
+        "Points": 1060
+    },
+    {
+        "Trick Name": "Beamula 1",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Beton",
+        "Tier": 7,
+        "Points": 1260
+    },
+    {
+        "Trick Name": "Bhoptera",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Bhopulus",
+        "Tier": 4,
+        "Points": 525
+    },
+    {
+        "Trick Name": "bhop_cjungle",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Boarding Exam",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Boarding Graduate",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Bonk Rise",
+        "Tier": 6,
+        "Points": 1050
+    },
+    {
+        "Trick Name": "Boombox",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Boring Brian",
+        "Tier": 5,
+        "Points": 975
+    },
+    {
+        "Trick Name": "Bullet Train",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Bullseye",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Change of Plans",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Charging Pitbull",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Chiffon",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Classical Skyscraping",
+        "Tier": 6,
+        "Points": 1025
+    },
+    {
+        "Trick Name": "Clown Collecting his Fish",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Coggers",
+        "Tier": 7,
+        "Points": 1230
+    },
+    {
+        "Trick Name": "Coming Right Through",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Concretejungle Gauntlet",
+        "Tier": 7,
+        "Points": 1260
+    },
+    {
+        "Trick Name": "Construction Day",
+        "Tier": 6,
+        "Points": 1025
+    },
+    {
+        "Trick Name": "Cooper's Hill",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Cottonwood Creek",
+        "Tier": 7,
+        "Points": 1230
+    },
+    {
+        "Trick Name": "Counter-Espionage",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Cranium",
+        "Tier": 5,
+        "Points": 808
+    },
+    {
+        "Trick Name": "Cyanofoobia",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Death Spiral",
+        "Tier": 7,
+        "Points": 1275
+    },
+    {
+        "Trick Name": "Dilation",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Dislocation",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Dupioni",
+        "Tier": 5,
+        "Points": 999
+    },
+    {
+        "Trick Name": "Eastside Cocktail",
+        "Tier": 7,
+        "Points": 1230
+    },
+    {
+        "Trick Name": "Elongated Crate",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "End of Civilization",
+        "Tier": 8,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "Establish Total Beam Dominance",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Exfiltration",
+        "Tier": 6,
+        "Points": 1090
+    },
+    {
+        "Trick Name": "Finished Assignment",
+        "Tier": 6,
+        "Points": 1025
+    },
+    {
+        "Trick Name": "Floating Point Precision",
+        "Tier": 7,
+        "Points": 1280
+    },
+    {
+        "Trick Name": "Flying Concrete",
+        "Tier": 8,
+        "Points": 1300
+    },
+    {
+        "Trick Name": "Freefall",
+        "Tier": 4,
+        "Points": 775
+    },
+    {
+        "Trick Name": "Frozen Pool",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Full Throttle",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Gains",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Gearbox",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Ghost To Coast",
+        "Tier": 6,
+        "Points": 1101
+    },
+    {
+        "Trick Name": "Ghostless",
+        "Tier": 7,
+        "Points": 1234
+    },
+    {
+        "Trick Name": "Goblin Gang",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Goblin Grove",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Green Goblin",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Guppy",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "haha funny board",
+        "Tier": 6,
+        "Points": 1150
+    },
+    {
+        "Trick Name": "Hard Ghost To Coast",
+        "Tier": 7,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Hard Louisette",
+        "Tier": 7,
+        "Points": 1230
+    },
+    {
+        "Trick Name": "Headcheckers",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Higherlands",
+        "Tier": 7,
+        "Points": 1235
+    },
+    {
+        "Trick Name": "highjump",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Highrise Skyscraping",
+        "Tier": 5,
+        "Points": 975
+    },
+    {
+        "Trick Name": "Home Sweet Home",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Hylian",
+        "Tier": 5,
+        "Points": 815
+    },
+    {
+        "Trick Name": "idk",
+        "Tier": 6,
+        "Points": 1090
+    },
+    {
+        "Trick Name": "Illegal Seagull",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Inception",
+        "Tier": 6,
+        "Points": 1025
+    },
+    {
+        "Trick Name": "Inspection",
+        "Tier": 6,
+        "Points": 1180
+    },
+    {
+        "Trick Name": "Insurrection",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Jagadada",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Kitchen Aid",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Lavender",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Lefty",
+        "Tier": 5,
+        "Points": 825
+    },
+    {
+        "Trick Name": "Light Mind",
+        "Tier": 5,
+        "Points": 825
+    },
+    {
+        "Trick Name": "Lighthouse",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Liq's Nyooooooom",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Liqilliam",
+        "Tier": 7,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Liquidator's Headcheck",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Louisette",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Lumidra",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Macroscopic",
+        "Tier": 7,
+        "Points": 1245
+    },
+    {
+        "Trick Name": "Marble Michael",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Megatall Skyscraping",
+        "Tier": 7,
+        "Points": 1275
+    },
+    {
+        "Trick Name": "Microscopic",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "More Gains",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Mountain Goat",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Newprint",
+        "Tier": 6,
+        "Points": 1075
+    },
+    {
+        "Trick Name": "North Pole",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Off-Season Grilling",
+        "Tier": 6,
+        "Points": 1220
+    },
+    {
+        "Trick Name": "Offgrid Enjoyer",
+        "Tier": 1,
+        "Points": 50
+    },
+    {
+        "Trick Name": "Oneko",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Panzerfaust",
+        "Tier": 7,
+        "Points": 1245
+    },
+    {
+        "Trick Name": "Phantom Blood",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Pharaoh",
+        "Tier": 7,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Pink Topping",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Pivoting to Pit",
+        "Tier": 7,
+        "Points": 1230
+    },
+    {
+        "Trick Name": "Pool Ionizer",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Pool Skimmer",
+        "Tier": 6,
+        "Points": 1125
+    },
+    {
+        "Trick Name": "Possible Headcheck Rise",
+        "Tier": 7,
+        "Points": 1290
+    },
+    {
+        "Trick Name": "Rapscallion",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Redundancy",
+        "Tier": 7,
+        "Points": 1290
+    },
+    {
+        "Trick Name": "Return to Sender",
+        "Tier": 3,
+        "Points": 425
+    },
+    {
+        "Trick Name": "Roofing",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "Room 100",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Room 101",
+        "Tier": 5,
+        "Points": 975
+    },
+    {
+        "Trick Name": "Room 102",
+        "Tier": 6,
+        "Points": 1050
+    },
+    {
+        "Trick Name": "Room 103",
+        "Tier": 7,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Room 200",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Room 201",
+        "Tier": 5,
+        "Points": 925
+    },
+    {
+        "Trick Name": "Room 202",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Room 203",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Room 300",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Room 303",
+        "Tier": 7,
+        "Points": 1250
+    },
+    {
+        "Trick Name": "Room 500",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Room 501",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Room 502",
+        "Tier": 6,
+        "Points": 1025
+    },
+    {
+        "Trick Name": "Room 503",
+        "Tier": 7,
+        "Points": 1260
+    },
+    {
+        "Trick Name": "Rosemary",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Ruddy Cubby",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Sacred Sumptuous Silk",
+        "Tier": 8,
+        "Points": 1420
+    },
+    {
+        "Trick Name": "Sarkadia",
+        "Tier": 6,
+        "Points": 1220
+    },
+    {
+        "Trick Name": "Seaside Amnesia",
+        "Tier": 6,
+        "Points": 1224
+    },
+    {
+        "Trick Name": "Serendipity",
+        "Tier": 6,
+        "Points": 1068
+    },
+    {
+        "Trick Name": "Shapeless",
+        "Tier": 5,
+        "Points": 920
+    },
+    {
+        "Trick Name": "Shoebox",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "shorter than my dong",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Shredded Cheese",
+        "Tier": 4,
+        "Points": 675
+    },
+    {
+        "Trick Name": "Shy Guy",
+        "Tier": 7,
+        "Points": 1255
+    },
+    {
+        "Trick Name": "Skyline Sniping",
+        "Tier": 5,
+        "Points": 925
+    },
+    {
+        "Trick Name": "Skyscraper Surplus",
+        "Tier": 6,
+        "Points": 1025
+    },
+    {
+        "Trick Name": "Skyscraping",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Smooth Steve",
+        "Tier": 5,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Sniper-Man",
+        "Tier": 7,
+        "Points": 1245
+    },
+    {
+        "Trick Name": "Soaping",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Soft Silk",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Speeding Ticket",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Speedy Gonzales",
+        "Tier": 6,
+        "Points": 1155
+    },
+    {
+        "Trick Name": "Start of The Jungle",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Still In The Jungle?",
+        "Tier": 7,
+        "Points": 1275
+    },
+    {
+        "Trick Name": "Strolling Around",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Sudden Skyscraper Influx",
+        "Tier": 7,
+        "Points": 1240
+    },
+    {
+        "Trick Name": "Sumptuous Silk",
+        "Tier": 8,
+        "Points": 1310
+    },
+    {
+        "Trick Name": "Supertall Skyscraping",
+        "Tier": 6,
+        "Points": 1175
+    },
+    {
+        "Trick Name": "Tachyon",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Teresa",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "The Bishop",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "The Pixel",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Thorium Reactor",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Thorofare Hike",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Toolbox",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Trampoline Party",
+        "Tier": 3,
+        "Points": 420
+    },
+    {
+        "Trick Name": "Trickle-down Economics",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Triko",
+        "Tier": 7,
+        "Points": 1235
+    },
+    {
+        "Trick Name": "Tussar",
+        "Tier": 6,
+        "Points": 1025
+    },
+    {
+        "Trick Name": "Twoko",
+        "Tier": 6,
+        "Points": 1122
+    },
+    {
+        "Trick Name": "Typical King Tier 4 Extended",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Typical King Tier 4 Extended+",
+        "Tier": 7,
+        "Points": 1230
+    },
+    {
+        "Trick Name": "Undergeast",
+        "Tier": 6,
+        "Points": 1040
+    },
+    {
+        "Trick Name": "Velocitra",
+        "Tier": 6,
+        "Points": 1010
+    },
+    {
+        "Trick Name": "Walk of Shame",
+        "Tier": 7,
+        "Points": 1280
+    },
+    {
+        "Trick Name": "Weirdo",
+        "Tier": 6,
+        "Points": 1215
+    },
+    {
+        "Trick Name": "Who let Liq cook?",
+        "Tier": 8,
+        "Points": 1330
+    },
+    {
+        "Trick Name": "Wooden Skyscraper",
+        "Tier": 7,
+        "Points": 1230
+    },
+    {
+        "Trick Name": "Wuthering Heights",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "You Are The Shredded Cheese Man",
+        "Tier": 6,
+        "Points": 1220
+    },
+    {
+        "Trick Name": "Zen",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "Zen Remix",
+        "Tier": 7,
+        "Points": 1245
+    },
+    {
+        "Trick Name": "Zendara",
+        "Tier": 7,
+        "Points": 1230
+    },
+    {
+        "Trick Name": "Zenith",
+        "Tier": 8,
+        "Points": 1325
+    }
+]

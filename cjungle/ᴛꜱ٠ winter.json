@@ -1,0 +1,37 @@
+[
+    {
+        "Trick Name": "Gyarados",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Magikarp",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "PANIC ATTACK!",
+        "Tier": 6,
+        "Points": 1200
+    },
+    {
+        "Trick Name": "PANIC!",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Satellite",
+        "Tier": 6,
+        "Points": 1150
+    },
+    {
+        "Trick Name": "Signus, Envoy of the Devourer",
+        "Tier": 7,
+        "Points": 1225
+    },
+    {
+        "Trick Name": "Storm Weaver",
+        "Tier": 5,
+        "Points": 900
+    }
+]

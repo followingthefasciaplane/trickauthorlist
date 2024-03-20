@@ -1,0 +1,32 @@
+[
+    {
+        "Trick Name": "Blue Planet",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Cathedral",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Cold Expanse",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Janpu",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Nyooooooom v9",
+        "Tier": 5,
+        "Points": 900
+    },
+    {
+        "Trick Name": "Sanity",
+        "Tier": 4,
+        "Points": 600
+    }
+]
