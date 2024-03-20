@@ -1,0 +1,42 @@
+[
+    {
+        "Trick Name": "Bonus Shortcut",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Harder Wrath",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Pro nigxu rise",
+        "Tier": 6,
+        "Points": 1075
+    },
+    {
+        "Trick Name": "Super Cool",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "T2 Strafe",
+        "Tier": 2,
+        "Points": 125
+    },
+    {
+        "Trick Name": "x2 Spawn Wrap from Spawn",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "x3 Spawn Wrap from Spawn",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "x4 Spawn Wrap from Spawn",
+        "Tier": 6,
+        "Points": 1000
+    }
+]

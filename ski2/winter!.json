@@ -1,0 +1,32 @@
+[
+    {
+        "Trick Name": "Cafecito",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Coffee",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Follow The Snowman",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Heaven in a Snowflake",
+        "Tier": 6,
+        "Points": 1100
+    },
+    {
+        "Trick Name": "The Snowman Follows You",
+        "Tier": 6,
+        "Points": 1000
+    },
+    {
+        "Trick Name": "Winter's Nightmare",
+        "Tier": 5,
+        "Points": 950
+    }
+]

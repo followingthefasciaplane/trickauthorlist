@@ -1,0 +1,32 @@
+[
+    {
+        "Trick Name": "AWP Rise",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Banana Strafe",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Hard Nifps' Walk",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Nifps' Rise",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Nifps' Trip",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Nifps' Walk",
+        "Tier": 4,
+        "Points": 500
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "Trick Name": "Alcatraz",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "assHOLE",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Awesome",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "AWP Rise Hop",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "Beyblade",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Cool",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Cthulhu",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Da strafes",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Da strafes v2",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Dip & Dive",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Double Dip",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Dragonfly Tuna",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Dropkick",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Easy Rasta Rise",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Easy Wet Bread",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Fox Hound",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Genesis",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Grodd",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Groddlike",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Gun Walk",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Gunpowder",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Halloween",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Hard Horse Shit Rise",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Hard Jail Strafe",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Hard Rasta Rise",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Hard Simple Walk",
+        "Tier": 3,
+        "Points": 475
+    },
+    {
+        "Trick Name": "Hard Super Noodles",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Hard Zyzz v2",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Healbot Return",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Horse Shit Rise",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Jail Strafe Return",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Kano",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Lovely Jubbly",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Lucifer",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Mantis",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Mind the cracks",
+        "Tier": 4,
+        "Points": 750
+    },
+    {
+        "Trick Name": "More Annoying",
+        "Tier": 3,
+        "Points": 385
+    },
+    {
+        "Trick Name": "Nix",
+        "Tier": 4,
+        "Points": 550
+    },
+    {
+        "Trick Name": "Oceanic Highlife",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Pleb Wrap",
+        "Tier": 3,
+        "Points": 450
+    },
+    {
+        "Trick Name": "Portal to Jail Wall",
+        "Tier": 3,
+        "Points": 325
+    },
+    {
+        "Trick Name": "Pulse",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Pure",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Raiden",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Raiden wrap",
+        "Tier": 3,
+        "Points": 350
+    },
+    {
+        "Trick Name": "Raptor",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Rasta Rise",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Rikishi",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Risin' up",
+        "Tier": 4,
+        "Points": 775
+    },
+    {
+        "Trick Name": "Simple Walk",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Spawn Rise",
+        "Tier": 2,
+        "Points": 150
+    },
+    {
+        "Trick Name": "Spawn Wrap from Spawn",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Strafe Sign Rise",
+        "Tier": 3,
+        "Points": 300
+    },
+    {
+        "Trick Name": "Sweed",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "T2 Wrap from Jail",
+        "Tier": 2,
+        "Points": 185
+    },
+    {
+        "Trick Name": "The Delf",
+        "Tier": 3,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Thunder",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "Tip Return",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "To the MOON",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Triangle",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Unleashed",
+        "Tier": 5,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Up and out",
+        "Tier": 3,
+        "Points": 200
+    },
+    {
+        "Trick Name": "V Banana Return",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "V Zyzz",
+        "Tier": 5,
+        "Points": 800
+    },
+    {
+        "Trick Name": "Vampire Diaries",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Vertex",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Vertex Remix",
+        "Tier": 5,
+        "Points": 950
+    },
+    {
+        "Trick Name": "Vertigo",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "Visiting my grandmom",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Vitality",
+        "Tier": 4,
+        "Points": 700
+    },
+    {
+        "Trick Name": "Walk the plank",
+        "Tier": 4,
+        "Points": 600
+    },
+    {
+        "Trick Name": "Wasp Tuna",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Watermelon",
+        "Tier": 4,
+        "Points": 650
+    },
+    {
+        "Trick Name": "Weaver",
+        "Tier": 4,
+        "Points": 500
+    },
+    {
+        "Trick Name": "Weeb-Wrap",
+        "Tier": 3,
+        "Points": 225
+    },
+    {
+        "Trick Name": "Wet Bread",
+        "Tier": 5,
+        "Points": 825
+    },
+    {
+        "Trick Name": "Wraps all day",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Yet another Rise",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "You tell em Cowboy",
+        "Tier": 3,
+        "Points": 250
+    },
+    {
+        "Trick Name": "Zyzz v2",
+        "Tier": 3,
+        "Points": 400
+    }
+]

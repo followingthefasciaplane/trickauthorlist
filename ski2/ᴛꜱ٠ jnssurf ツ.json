@@ -1,0 +1,17 @@
+[
+    {
+        "Trick Name": "I need healing",
+        "Tier": 3,
+        "Points": 400
+    },
+    {
+        "Trick Name": "I need more healing",
+        "Tier": 5,
+        "Points": 850
+    },
+    {
+        "Trick Name": "Slantin'",
+        "Tier": 3,
+        "Points": 350
+    }
+]
